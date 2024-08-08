@@ -14,8 +14,9 @@ def extract_user_profile(data):
 
 # Function to plot total scores
 def plot_total_scores(df):
-    fig = px.bar(df, x='Task Name', y='Total Score', color='File Name',
-                 title='Total Scores for Different Tasks')
+    fig = px.bar(df, y='Task Name', x='Total Score', color='File Name',
+                orientation='h', title='Total Scores for Different Tasks',
+                barmode='group', labels={'Total Score': 'Total Score', 'Task Name': 'Task Name'})
     st.plotly_chart(fig)
 
 def plot_completion_times(df_completion_times):
