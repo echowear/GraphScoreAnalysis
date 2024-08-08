@@ -1,0 +1,116 @@
+{
+  "id": "1717456845010",
+  "WordRecall": {
+    "trialResponses": {
+      "trial1": [
+        {
+          "isHit": 0,
+          "selectedValue": "",
+          "reactionTime": 0,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "tappedTimeElapsed": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ]
+        },
+        {
+          "tappedTimeElapsed": 0,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "isHit": 1,
+          "reactionTime": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "selectedValue": "drum"
+        },
+        {
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "isHit": 1,
+          "reactionTime": 0,
+          "selectedValue": "drum",
+          "tappedTimeElapsed": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ]
+        }
+      ]
+    },
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "analysisResult": {
+      "taskName": "TaskName.WordRecall",
+      "errorType": "ErrorType.None",
+      "taskSignature": "691981543bbee34910c337aad573fe56b904023e3cc4365a269c79055472de5d",
+      "percentCorrect": [
+        17
+      ],
+      "intrusions": [
+        0
+      ],
+      "learningRate": 0.0,
+      "errorRates": [
+        0.3333333333333333
+      ],
+      "responseLatency": 0,
+      "variance": 0.0,
+      "completionTimes": [
+        12925
+      ],
+      "mean": 17.0
+    },
+    "repetitionCount": [
+      1
+    ],
+    "serialPositionEffect": [
+      {
+        "RecencyEffect": 0.0,
+        "MiddleEffect": 0.0,
+        "PrimacyEffect": 0.25
+      }
+    ],
+    "keepAlive": true,
+    "taskName": "TaskName.WordRecall",
+    "totalScore": 2
+  }
+}

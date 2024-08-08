@@ -1,0 +1,136 @@
+{
+  "id": "1722014717453",
+  "Math": {
+    "totalScore": 0,
+    "analysisResult": {
+      "percentCorrect": [
+        0
+      ],
+      "responseLatency": 1299,
+      "completionTimes": [
+        10394
+      ],
+      "variance": 0.0,
+      "errorRates": [
+        1.0
+      ],
+      "taskSignature": "8ca9daf2f2d0ceed3de0307c0902d44143678074d6025c9193fcbc9b2dc9c642",
+      "errorType": "ErrorType.None",
+      "mean": 0.0,
+      "taskName": "TaskName.Math",
+      "learningRate": 0.0
+    },
+    "trialResponses": {
+      "trial1": [
+        {
+          "correctValue": [
+            "19"
+          ],
+          "reactionTime": 2637,
+          "tappedTimeElapsed": 2629,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "selectedValue": "909"
+        },
+        {
+          "correctValue": [
+            "31"
+          ],
+          "tappedTimeElapsed": 3984,
+          "selectedValue": "99",
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "isHit": 1,
+          "reactionTime": 1347
+        },
+        {
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "tappedTimeElapsed": 5041,
+          "isHit": 1,
+          "reactionTime": 1056,
+          "selectedValue": "99",
+          "correctValue": [
+            "34"
+          ]
+        },
+        {
+          "tappedTimeElapsed": 6070,
+          "selectedValue": "99",
+          "correctValue": [
+            "26"
+          ],
+          "reactionTime": 1028,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "isHit": 1,
+          "selectedValue": "99",
+          "reactionTime": 1331,
+          "tappedTimeElapsed": 7402,
+          "correctValue": [
+            "32"
+          ],
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          }
+        },
+        {
+          "correctValue": [
+            "54"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "reactionTime": 1111,
+          "selectedValue": "99",
+          "tappedTimeElapsed": 8514
+        },
+        {
+          "reactionTime": 922,
+          "correctValue": [
+            "9"
+          ],
+          "isHit": 1,
+          "selectedValue": "99",
+          "tappedTimeElapsed": 9436,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "reactionTime": 956,
+          "selectedValue": "99",
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "correctValue": [
+            "34"
+          ],
+          "tappedTimeElapsed": 10392,
+          "isHit": 1
+        }
+      ]
+    },
+    "taskName": "TaskName.Math",
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "keepAlive": true
+  },
+  "finalScore": 0
+}

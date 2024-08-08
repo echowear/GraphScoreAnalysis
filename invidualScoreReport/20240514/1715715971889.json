@@ -1,0 +1,74 @@
+{
+  "ShortTermWordRecall": {
+    "taskName": "TaskName.ShortTermWordRecall",
+    "score": 20,
+    "analysisResult": {
+      "errorRate": 0,
+      "learningRate": 0,
+      "mean": 0,
+      "intrusions": 0,
+      "taskSignature": "",
+      "responseLatency": 0,
+      "score": 20,
+      "errorType": "ErrorType.Other",
+      "taskName": "TaskName.ShortTermWordRecall"
+    },
+    "completionTime": 6531,
+    "keepAlive": true,
+    "taskResponses": [
+      {
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "selectedValue": "",
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0,
+        "isHit": 0,
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "isHit": 1,
+        "selectedValue": "apple",
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0
+      },
+      {
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "reactionTime": 0,
+        "isHit": 0,
+        "selectedValue": "soccer",
+        "tappedTimeElapsed": 0,
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        }
+      }
+    ],
+    "taskType": "TaskType.ExecutiveFunctioning"
+  },
+  "id": "1715715971889"
+}

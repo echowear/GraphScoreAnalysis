@@ -1,0 +1,227 @@
+{
+  "SemanticRelatedness": {
+    "taskType": "TaskType.Language",
+    "keepAlive": true,
+    "analysisResult": {
+      "percentCorrect": [
+        33
+      ],
+      "mean": 33.0,
+      "responseLatency": 755,
+      "learningRate": 0.0,
+      "taskName": "TaskName.SemanticRelatedness",
+      "errorRates": [
+        0.6666666666666666
+      ],
+      "taskSignature": "e626ac7f9c9b0144617a86e1b0b56741dc4b18d775122229f30d9948644bdfa0",
+      "errorType": "ErrorType.None",
+      "variance": 0.0,
+      "completionTimes": [
+        11281
+      ]
+    },
+    "taskName": "TaskName.SemanticRelatedness",
+    "trialResponses": {
+      "trial1": [
+        {
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "selectedValue": "Book",
+          "correctValue": [
+            "Garden"
+          ],
+          "tappedTimeElapsed": 1298,
+          "reactionTime": 1350,
+          "isHit": 1
+        },
+        {
+          "selectedValue": "Space",
+          "reactionTime": 672,
+          "correctValue": [
+            "Desert"
+          ],
+          "tappedTimeElapsed": 1970,
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          }
+        },
+        {
+          "correctValue": [
+            "Money"
+          ],
+          "selectedValue": "Money",
+          "reactionTime": 548,
+          "tappedTimeElapsed": 2518,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "isHit": 1
+        },
+        {
+          "selectedValue": "Berry",
+          "tappedTimeElapsed": 3327,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "isHit": 1,
+          "reactionTime": 809,
+          "correctValue": [
+            "Rose"
+          ]
+        },
+        {
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "reactionTime": 1125,
+          "tappedTimeElapsed": 4452,
+          "selectedValue": "Date",
+          "correctValue": [
+            "Shine"
+          ]
+        },
+        {
+          "isHit": 1,
+          "correctValue": [
+            "Hopelessness"
+          ],
+          "selectedValue": "Hopelessness",
+          "reactionTime": 678,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "tappedTimeElapsed": 5130
+        },
+        {
+          "selectedValue": "Startle",
+          "reactionTime": 543,
+          "correctValue": [
+            "Silence"
+          ],
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 5673
+        },
+        {
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "tappedTimeElapsed": 6188,
+          "isHit": 1,
+          "selectedValue": "Truth",
+          "reactionTime": 515,
+          "correctValue": [
+            "Truth"
+          ]
+        },
+        {
+          "isHit": 1,
+          "tappedTimeElapsed": 6700,
+          "correctValue": [
+            "Flame"
+          ],
+          "reactionTime": 512,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "selectedValue": "Tame"
+        },
+        {
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 7230,
+          "correctValue": [
+            "Rattle"
+          ],
+          "selectedValue": "Rattle",
+          "reactionTime": 530
+        },
+        {
+          "correctValue": [
+            "Thunder"
+          ],
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "isHit": 1,
+          "selectedValue": "Food",
+          "tappedTimeElapsed": 7725,
+          "reactionTime": 495
+        },
+        {
+          "isHit": 1,
+          "selectedValue": "Plane",
+          "reactionTime": 679,
+          "correctValue": [
+            "Hunger"
+          ],
+          "tappedTimeElapsed": 8404,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          }
+        },
+        {
+          "correctValue": [
+            "Wisdom"
+          ],
+          "reactionTime": 981,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 9385,
+          "selectedValue": "Perfect"
+        },
+        {
+          "selectedValue": "Soar",
+          "correctValue": [
+            "Sour"
+          ],
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 10419,
+          "reactionTime": 1034
+        },
+        {
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "tappedTimeElapsed": 11278,
+          "reactionTime": 859,
+          "isHit": 1,
+          "correctValue": [
+            "Moon"
+          ],
+          "selectedValue": "Moon"
+        }
+      ]
+    },
+    "totalScore": 5
+  },
+  "finalScore": 5,
+  "id": "1722005709588"
+}

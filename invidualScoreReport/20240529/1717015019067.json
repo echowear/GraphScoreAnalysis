@@ -1,0 +1,168 @@
+{
+  "id": "1717015019067",
+  "Story": {
+    "taskType": "TaskType.Language",
+    "serialPositionEffect": [
+      {
+        "MiddleEffect": 0.5,
+        "RecencyEffect": 1,
+        "PrimacyEffect": 1
+      }
+    ],
+    "totalScore": 80,
+    "keepAlive": true,
+    "taskResponses": {
+      "trial1": [
+        {
+          "reactionTime": 1393,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 325.24609375,
+            "y": 363.4921875
+          },
+          "tappedTimeElapsed": 39328,
+          "correctValue": [
+            "Monday morning"
+          ],
+          "selectedValue": "Monday morning"
+        },
+        {
+          "selectedValue": "No",
+          "reactionTime": 5699,
+          "correctValue": [
+            "No"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 777.52734375,
+            "y": 384.59765625
+          },
+          "tappedTimeElapsed": 45027
+        },
+        {
+          "reactionTime": 2067,
+          "tappedTimeElapsed": 47094,
+          "correctValue": [
+            "Sarah"
+          ],
+          "tappedPosition": {
+            "y": 428.9765625,
+            "x": 1242.55078125
+          },
+          "selectedValue": "Sarah",
+          "isHit": 1
+        },
+        {
+          "tappedPosition": {
+            "y": 410.07421875,
+            "x": 475.5
+          },
+          "tappedTimeElapsed": 50361,
+          "isHit": 1,
+          "reactionTime": 3267,
+          "correctValue": [
+            "Yes"
+          ],
+          "selectedValue": "Yes"
+        },
+        {
+          "tappedTimeElapsed": 51510,
+          "tappedPosition": {
+            "y": 499.5,
+            "x": 463.6484375
+          },
+          "reactionTime": 1149,
+          "isHit": 1,
+          "correctValue": [
+            "At lunch time"
+          ],
+          "selectedValue": "At lunch time"
+        },
+        {
+          "selectedValue": "Yes",
+          "reactionTime": 1617,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 489.6953125,
+            "y": 429.16796875
+          },
+          "correctValue": [
+            "No"
+          ],
+          "tappedTimeElapsed": 53127
+        },
+        {
+          "tappedPosition": {
+            "x": 508.62109375,
+            "y": 365.05078125
+          },
+          "tappedTimeElapsed": 55610,
+          "selectedValue": "Her trunk was left unlocked",
+          "correctValue": [
+            "She was distracted"
+          ],
+          "isHit": 1,
+          "reactionTime": 2483
+        },
+        {
+          "selectedValue": "Eggs",
+          "reactionTime": 1917,
+          "isHit": 1,
+          "tappedTimeElapsed": 57527,
+          "correctValue": [
+            "Eggs"
+          ],
+          "tappedPosition": {
+            "y": 418.28125,
+            "x": 241.93359375
+          }
+        },
+        {
+          "tappedTimeElapsed": 58744,
+          "isHit": 1,
+          "selectedValue": "8",
+          "correctValue": [
+            "8"
+          ],
+          "reactionTime": 1217,
+          "tappedPosition": {
+            "y": 423.875,
+            "x": 1243.4140625
+          }
+        },
+        {
+          "tappedTimeElapsed": 59710,
+          "isHit": 1,
+          "selectedValue": "Blueberries",
+          "tappedPosition": {
+            "x": 837.765625,
+            "y": 413.58984375
+          },
+          "reactionTime": 966,
+          "correctValue": [
+            "Blueberries"
+          ]
+        }
+      ]
+    },
+    "analysisResult": {
+      "errorType": "ErrorType.Other",
+      "completionTimes": [
+        59711
+      ],
+      "learningRate": 0,
+      "taskSignature": "",
+      "taskName": "TaskName.Story",
+      "errorRates": [
+        0.2
+      ],
+      "allScores": [
+        80
+      ],
+      "mean": 80,
+      "responseLatency": 2178,
+      "variance": 0
+    },
+    "taskName": "TaskName.Story"
+  }
+}

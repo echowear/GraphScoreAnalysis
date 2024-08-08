@@ -1,0 +1,134 @@
+{
+  "id": "1716390743558",
+  "DigitSpanForwards": {
+    "taskName": "TaskName.DigitSpanForwards",
+    "analysisResult": {
+      "responseLatency": 0,
+      "learningRate": 0,
+      "taskName": "TaskName.DigitSpanForwards",
+      "intrusions": 0,
+      "errorType": "ErrorType.Other",
+      "errorRate": 0,
+      "taskSignature": "",
+      "completionTimes": [
+        6411,
+        4606,
+        1614
+      ],
+      "allScores": [
+        100,
+        0,
+        0
+      ],
+      "mean": 33.333333333333336
+    },
+    "keepAlive": true,
+    "taskResponses": {
+      "trial3": [
+        {
+          "correctValue": [
+            "9",
+            "5",
+            "8",
+            "2",
+            "0"
+          ],
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "reactionTime": 0,
+          "selectedValue": "6",
+          "isHit": 0,
+          "tappedTimeElapsed": 0
+        }
+      ],
+      "trial2": [
+        {
+          "correctValue": [
+            "2",
+            "7",
+            "5",
+            "3"
+          ],
+          "selectedValue": "6",
+          "reactionTime": 0,
+          "isHit": 0,
+          "tappedTimeElapsed": 0,
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          }
+        }
+      ],
+      "trial1": [
+        {
+          "correctValue": [
+            "3",
+            "9",
+            "8",
+            "2"
+          ],
+          "isHit": 1,
+          "reactionTime": 0,
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          },
+          "selectedValue": "3",
+          "tappedTimeElapsed": 0
+        },
+        {
+          "tappedTimeElapsed": 0,
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "correctValue": [
+            "3",
+            "9",
+            "8",
+            "2"
+          ],
+          "reactionTime": 0,
+          "selectedValue": "9"
+        },
+        {
+          "selectedValue": "8",
+          "correctValue": [
+            "3",
+            "9",
+            "8",
+            "2"
+          ],
+          "reactionTime": 0,
+          "isHit": 1,
+          "tappedTimeElapsed": 0,
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "selectedValue": "2",
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          },
+          "tappedTimeElapsed": 0,
+          "reactionTime": 0,
+          "isHit": 1,
+          "correctValue": [
+            "3",
+            "9",
+            "8",
+            "2"
+          ]
+        }
+      ]
+    },
+    "totalScore": 100,
+    "taskType": "TaskType.ExecutiveFunctioning"
+  }
+}

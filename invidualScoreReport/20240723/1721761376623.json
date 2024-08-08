@@ -1,0 +1,193 @@
+{
+  "id": "1721761376623",
+  "Category": {
+    "trialResponses": {
+      "trial1": [
+        {
+          "correctValue": [
+            "Lynx",
+            "Hyena",
+            "Buffalo",
+            "Whale",
+            "Frog",
+            "Cobra"
+          ],
+          "reactionTime": 5568,
+          "tappedTimeElapsed": 5575,
+          "selectedValue": "Whale",
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 297.7518717447917,
+            "x": 1061.4471028645833
+          }
+        },
+        {
+          "reactionTime": 646,
+          "correctValue": [
+            "Lynx",
+            "Hyena",
+            "Buffalo",
+            "Whale",
+            "Frog",
+            "Cobra"
+          ],
+          "tappedTimeElapsed": 6222,
+          "selectedValue": "Zoo",
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 1062.1134440104167,
+            "y": 454.9542236328125
+          }
+        },
+        {
+          "correctValue": [
+            "Wolf",
+            "Moose",
+            "Chipmunk",
+            "Turtle",
+            "Otter",
+            "Penguin"
+          ],
+          "reactionTime": 8108,
+          "isHit": 1,
+          "selectedValue": "Otter",
+          "tappedPosition": {
+            "y": 516.2364908854166,
+            "x": 423.1129557291667
+          },
+          "tappedTimeElapsed": 14330
+        },
+        {
+          "reactionTime": 627,
+          "tappedPosition": {
+            "x": 611.0150960286459,
+            "y": 395.6702880859375
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 14957,
+          "correctValue": [
+            "Wolf",
+            "Moose",
+            "Chipmunk",
+            "Turtle",
+            "Otter",
+            "Penguin"
+          ],
+          "selectedValue": "Turtle"
+        },
+        {
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 568.8592936197916,
+            "x": 797.5845540364583
+          },
+          "tappedTimeElapsed": 20588,
+          "reactionTime": 5631,
+          "selectedValue": "Grate",
+          "correctValue": [
+            "Beaver",
+            "Sloth",
+            "Fox",
+            "Ferret",
+            "Lizard",
+            "Eel"
+          ]
+        },
+        {
+          "tappedPosition": {
+            "x": 788.256103515625,
+            "y": 471.6070149739583
+          },
+          "correctValue": [
+            "Beaver",
+            "Sloth",
+            "Fox",
+            "Ferret",
+            "Lizard",
+            "Eel"
+          ],
+          "selectedValue": "Lizard",
+          "reactionTime": 564,
+          "isHit": 1,
+          "tappedTimeElapsed": 21152
+        },
+        {
+          "selectedValue": "Lizard",
+          "tappedPosition": {
+            "y": 399.66695149739587,
+            "x": 733.617919921875
+          },
+          "tappedTimeElapsed": 21795,
+          "reactionTime": 643,
+          "correctValue": [
+            "Beaver",
+            "Sloth",
+            "Fox",
+            "Ferret",
+            "Lizard",
+            "Eel"
+          ],
+          "isHit": 1
+        },
+        {
+          "selectedValue": "Sloth",
+          "tappedPosition": {
+            "x": 1028.7974446614583,
+            "y": 528.2264811197916
+          },
+          "isHit": 1,
+          "reactionTime": 1605,
+          "correctValue": [
+            "Beaver",
+            "Sloth",
+            "Fox",
+            "Ferret",
+            "Lizard",
+            "Eel"
+          ],
+          "tappedTimeElapsed": 23400
+        },
+        {
+          "tappedPosition": {
+            "y": 612.1565348307291,
+            "x": 998.8130696614584
+          },
+          "reactionTime": 586,
+          "tappedTimeElapsed": 23986,
+          "correctValue": [
+            "Beaver",
+            "Sloth",
+            "Fox",
+            "Ferret",
+            "Lizard",
+            "Eel"
+          ],
+          "isHit": 1,
+          "selectedValue": "Sloth"
+        }
+      ]
+    },
+    "taskName": "TaskName.Category",
+    "analysisResult": {
+      "errorType": "ErrorType.None",
+      "percentCorrect": [
+        39
+      ],
+      "mean": 39.0,
+      "variance": 0.0,
+      "taskSignature": "6e7678f8748d5f99362c64b8fee8d0324ef1daf9eed0a58e163b7127854f8c02",
+      "responseLatency": 1332,
+      "taskName": "TaskName.Category",
+      "completionTimes": [
+        72647
+      ],
+      "errorRates": [
+        0.2222222222222222
+      ],
+      "learningRate": 0.0
+    },
+    "totalScore": 7,
+    "keepAlive": true,
+    "taskType": "TaskType.ExecutiveFunctioning"
+  }
+}

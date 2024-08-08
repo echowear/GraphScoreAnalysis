@@ -1,0 +1,121 @@
+{
+  "Category": {
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "keepAlive": true,
+    "totalScore": 4,
+    "trialResponses": {
+      "trial1": [
+        {
+          "tappedTimeElapsed": 5060,
+          "reactionTime": 5057,
+          "correctValue": [
+            "Lynx",
+            "Hyena",
+            "Buffalo",
+            "Whale",
+            "Frog",
+            "Cobra"
+          ],
+          "isHit": 1,
+          "selectedValue": "Cobra",
+          "tappedPosition": {
+            "y": 603.4971110026041,
+            "x": 284.5184733072917
+          }
+        },
+        {
+          "selectedValue": "Whale",
+          "reactionTime": 694,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 489.0785725911458,
+            "y": 590.1748860677084
+          },
+          "tappedTimeElapsed": 5754,
+          "correctValue": [
+            "Lynx",
+            "Hyena",
+            "Buffalo",
+            "Whale",
+            "Frog",
+            "Cobra"
+          ]
+        },
+        {
+          "tappedTimeElapsed": 6171,
+          "reactionTime": 417,
+          "isHit": 1,
+          "selectedValue": "Nest",
+          "correctValue": [
+            "Lynx",
+            "Hyena",
+            "Buffalo",
+            "Whale",
+            "Frog",
+            "Cobra"
+          ],
+          "tappedPosition": {
+            "x": 509.0681966145833,
+            "y": 465.6120198567708
+          }
+        },
+        {
+          "selectedValue": "Turtle",
+          "tappedPosition": {
+            "y": 652.7893473307291,
+            "x": 327.1629231770833
+          },
+          "isHit": 1,
+          "reactionTime": 9062,
+          "tappedTimeElapsed": 15233,
+          "correctValue": [
+            "Wolf",
+            "Moose",
+            "Chipmunk",
+            "Turtle",
+            "Otter",
+            "Penguin"
+          ]
+        },
+        {
+          "isHit": 1,
+          "tappedTimeElapsed": 15856,
+          "tappedPosition": {
+            "x": 325.16396077473956,
+            "y": 513.572021484375
+          },
+          "selectedValue": "Otter",
+          "reactionTime": 623,
+          "correctValue": [
+            "Wolf",
+            "Moose",
+            "Chipmunk",
+            "Turtle",
+            "Otter",
+            "Penguin"
+          ]
+        }
+      ]
+    },
+    "analysisResult": {
+      "taskSignature": "e450243eb0ae3aec4c5a7f17bb21c237639471fd758e622a597c345ad8d8c044",
+      "learningRate": 0.0,
+      "taskName": "TaskName.Category",
+      "percentCorrect": [
+        33
+      ],
+      "errorType": "ErrorType.None",
+      "errorRates": [
+        0.2
+      ],
+      "responseLatency": 1321,
+      "completionTimes": [
+        72624
+      ],
+      "variance": 0.0,
+      "mean": 33.0
+    },
+    "taskName": "TaskName.Category"
+  },
+  "id": "1721761849916"
+}

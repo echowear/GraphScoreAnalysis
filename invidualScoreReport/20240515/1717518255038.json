@@ -1,0 +1,39 @@
+{
+  "id": "1717518255038",
+  "DigitSpanForwards": {
+    "keepAlive": true,
+    "completionTime": 10685,
+    "score": 0,
+    "taskName": "TaskName.DigitSpanForwards",
+    "taskResponses": [
+      {
+        "selectedValue": "8",
+        "reactionTime": 0,
+        "isHit": 1,
+        "tappedTimeElapsed": 0,
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "correctValue": [
+          "3",
+          "9",
+          "8",
+          "2"
+        ]
+      }
+    ],
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "analysisResult": {
+      "mean": 0.0,
+      "responseLatency": 0,
+      "intrusions": 0.0,
+      "learningRate": 0.0,
+      "taskSignature": "",
+      "errorRate": 0.0,
+      "errorType": "ErrorType.Other",
+      "score": 0,
+      "taskName": "TaskName.DigitSpanForwards"
+    }
+  }
+}

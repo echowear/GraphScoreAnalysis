@@ -1,0 +1,168 @@
+{
+  "id": "1717009205089",
+  "Story": {
+    "totalScore": 70,
+    "analysisResult": {
+      "responseLatency": 2252,
+      "variance": 0,
+      "taskName": "TaskName.Story",
+      "errorType": "ErrorType.Other",
+      "taskSignature": "",
+      "allScores": [
+        70
+      ],
+      "errorRates": [
+        0.3
+      ],
+      "completionTimes": [
+        60436
+      ],
+      "learningRate": 0,
+      "mean": 70
+    },
+    "keepAlive": true,
+    "taskType": "TaskType.Language",
+    "taskResponses": {
+      "trial1": [
+        {
+          "selectedValue": "Monday morning",
+          "tappedTimeElapsed": 41285,
+          "tappedPosition": {
+            "x": 401.55078125,
+            "y": 343.34765625
+          },
+          "isHit": 1,
+          "correctValue": [
+            "Monday morning"
+          ],
+          "reactionTime": 3370
+        },
+        {
+          "reactionTime": 3135,
+          "tappedPosition": {
+            "x": 557.12109375,
+            "y": 411.93359375
+          },
+          "selectedValue": "Yes",
+          "correctValue": [
+            "No"
+          ],
+          "isHit": 1,
+          "tappedTimeElapsed": 44420
+        },
+        {
+          "correctValue": [
+            "Sarah"
+          ],
+          "tappedPosition": {
+            "y": 397.55078125,
+            "x": 1133.0234375
+          },
+          "tappedTimeElapsed": 46072,
+          "reactionTime": 1652,
+          "isHit": 1,
+          "selectedValue": "Sarah"
+        },
+        {
+          "isHit": 1,
+          "selectedValue": "Yes",
+          "tappedPosition": {
+            "y": 373.85546875,
+            "x": 505.4375
+          },
+          "correctValue": [
+            "Yes"
+          ],
+          "tappedTimeElapsed": 51069,
+          "reactionTime": 4997
+        },
+        {
+          "tappedTimeElapsed": 52671,
+          "selectedValue": "At lunch time",
+          "isHit": 1,
+          "correctValue": [
+            "At lunch time"
+          ],
+          "reactionTime": 1602,
+          "tappedPosition": {
+            "x": 519.72265625,
+            "y": 480.70703125
+          }
+        },
+        {
+          "reactionTime": 1814,
+          "tappedPosition": {
+            "y": 448.3671875,
+            "x": 429.3671875
+          },
+          "isHit": 1,
+          "selectedValue": "Yes",
+          "tappedTimeElapsed": 54485,
+          "correctValue": [
+            "No"
+          ]
+        },
+        {
+          "tappedTimeElapsed": 56685,
+          "reactionTime": 2200,
+          "correctValue": [
+            "She was distracted"
+          ],
+          "tappedPosition": {
+            "y": 357.0078125,
+            "x": 776.58984375
+          },
+          "selectedValue": "She was distracted",
+          "isHit": 1
+        },
+        {
+          "reactionTime": 1635,
+          "tappedPosition": {
+            "y": 416.95703125,
+            "x": 173.8671875
+          },
+          "selectedValue": "Eggs",
+          "correctValue": [
+            "Eggs"
+          ],
+          "tappedTimeElapsed": 58320,
+          "isHit": 1
+        },
+        {
+          "reactionTime": 915,
+          "isHit": 1,
+          "tappedTimeElapsed": 59235,
+          "selectedValue": "6",
+          "correctValue": [
+            "8"
+          ],
+          "tappedPosition": {
+            "x": 603.51171875,
+            "y": 411.39453125
+          }
+        },
+        {
+          "tappedPosition": {
+            "x": 990.69921875,
+            "y": 430.99609375
+          },
+          "correctValue": [
+            "Blueberries"
+          ],
+          "reactionTime": 1201,
+          "isHit": 1,
+          "tappedTimeElapsed": 60436,
+          "selectedValue": "Blueberries"
+        }
+      ]
+    },
+    "serialPositionEffect": [
+      {
+        "RecencyEffect": 1,
+        "MiddleEffect": 0.6666666666666666,
+        "PrimacyEffect": 0.6666666666666666
+      }
+    ],
+    "taskName": "TaskName.Story"
+  }
+}

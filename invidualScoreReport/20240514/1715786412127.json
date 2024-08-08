@@ -1,0 +1,244 @@
+{
+  "id": "1715786412127",
+  "ShortTermWordRecall": {
+    "score": 0,
+    "keepAlive": true,
+    "taskResponses": [
+      {
+        "tappedTimeElapsed": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "selectedValue": "",
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        },
+        "reactionTime": 0,
+        "isHit": 0
+      },
+      {
+        "reactionTime": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "tappedTimeElapsed": 0,
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "selectedValue": "the",
+        "isHit": 0
+      },
+      {
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "selectedValue": "story",
+        "isHit": 0,
+        "reactionTime": 0,
+        "tappedTimeElapsed": 0,
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "selectedValue": "second",
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        },
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "isHit": 0
+      },
+      {
+        "reactionTime": 0,
+        "isHit": 0,
+        "selectedValue": "time",
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        },
+        "tappedTimeElapsed": 0
+      },
+      {
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        },
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "reactionTime": 0,
+        "selectedValue": "when",
+        "tappedTimeElapsed": 0,
+        "isHit": 0
+      },
+      {
+        "selectedValue": "we",
+        "tappedTimeElapsed": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "isHit": 0,
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "reactionTime": 0
+      },
+      {
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "selectedValue": "are",
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0,
+        "isHit": 0
+      },
+      {
+        "isHit": 0,
+        "reactionTime": 0,
+        "selectedValue": "not",
+        "tappedTimeElapsed": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        }
+      },
+      {
+        "tappedTimeElapsed": 0,
+        "isHit": 0,
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        },
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "selectedValue": "sorry",
+        "reactionTime": 0
+      },
+      {
+        "reactionTime": 0,
+        "tappedTimeElapsed": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "selectedValue": "sorry",
+        "isHit": 0,
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "tappedTimeElapsed": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "reactionTime": 0,
+        "isHit": 0,
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        },
+        "selectedValue": "the"
+      },
+      {
+        "tappedTimeElapsed": 0,
+        "selectedValue": "figure",
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "reactionTime": 0,
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "isHit": 0
+      }
+    ],
+    "completionTime": 6009,
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "analysisResult": {
+      "taskName": "TaskName.ShortTermWordRecall",
+      "responseLatency": 0,
+      "errorRate": 0,
+      "intrusions": 0,
+      "taskSignature": "",
+      "errorType": "ErrorType.Other",
+      "mean": 0,
+      "learningRate": 0,
+      "score": 0
+    },
+    "taskName": "TaskName.ShortTermWordRecall"
+  }
+}

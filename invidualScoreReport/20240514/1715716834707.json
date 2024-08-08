@@ -1,0 +1,91 @@
+{
+  "ShortTermWordRecall": {
+    "analysisResult": {
+      "taskName": "TaskName.ShortTermWordRecall",
+      "responseLatency": 0,
+      "taskSignature": "",
+      "score": 0,
+      "mean": 0,
+      "errorRate": 0,
+      "learningRate": 0,
+      "intrusions": 0,
+      "errorType": "ErrorType.Other"
+    },
+    "completionTime": 6573,
+    "taskResponses": [
+      {
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "reactionTime": 0,
+        "selectedValue": "",
+        "isHit": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "tappedTimeElapsed": 0
+      },
+      {
+        "tappedTimeElapsed": 0,
+        "selectedValue": "sunset",
+        "reactionTime": 0,
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        },
+        "isHit": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ]
+      },
+      {
+        "reactionTime": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "tappedTimeElapsed": 0,
+        "isHit": 0,
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        },
+        "selectedValue": "night"
+      },
+      {
+        "reactionTime": 0,
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "isHit": 0,
+        "selectedValue": "cow",
+        "tappedTimeElapsed": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ]
+      }
+    ],
+    "keepAlive": true,
+    "taskName": "TaskName.ShortTermWordRecall",
+    "score": 0,
+    "taskType": "TaskType.ExecutiveFunctioning"
+  },
+  "id": "1715716834707"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "1715874604512",
+  "ShortTermWordRecall": {
+    "completionTime": 6135,
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "taskResponses": [
+      {
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "isHit": 0,
+        "selectedValue": "",
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        },
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0
+      },
+      {
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "selectedValue": "farmer",
+        "tappedTimeElapsed": 0,
+        "isHit": 1,
+        "reactionTime": 0
+      },
+      {
+        "tappedTimeElapsed": 0,
+        "isHit": 1,
+        "reactionTime": 0,
+        "selectedValue": "turkey",
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    ],
+    "score": 17,
+    "taskName": "TaskName.ShortTermWordRecall",
+    "keepAlive": true,
+    "analysisResult": {
+      "taskSignature": "",
+      "errorType": "ErrorType.Other",
+      "learningRate": 0,
+      "intrusions": 0,
+      "score": 17,
+      "errorRate": 0,
+      "responseLatency": 0,
+      "mean": 0,
+      "taskName": "TaskName.ShortTermWordRecall"
+    }
+  }
+}

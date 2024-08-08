@@ -1,0 +1,161 @@
+{
+  "id": "1719496321863",
+  "ReactionTime": {
+    "totalScore": 10,
+    "analysisResult": {
+      "mean": 100,
+      "taskSignature": "9368ce7da61c6f308e5589b6b565d98ae09c62ce53a70af265f785054a5579e0",
+      "percentCorrect": [
+        100
+      ],
+      "errorType": "ErrorType.None",
+      "variance": 0,
+      "errorRates": [
+        0
+      ],
+      "taskName": "TaskName.ReactionTime",
+      "responseLatency": 1025,
+      "completionTimes": [
+        30606
+      ],
+      "learningRate": 0
+    },
+    "taskName": "TaskName.ReactionTime",
+    "keepAlive": true,
+    "trialResponses": {
+      "trial1": [
+        {
+          "isHit": 1,
+          "tappedTimeElapsed": 888,
+          "reactionTime": 583,
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "x": 413.1428527832031,
+            "y": 197.346923828125
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "reactionTime": 1071,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 180.4897918701172,
+            "y": 221.02037048339844
+          },
+          "tappedTimeElapsed": 5535,
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "tappedPosition": {
+            "x": 520.0816040039062,
+            "y": 103.06121063232422
+          },
+          "reactionTime": 790,
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 7570,
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "selectedValue": "BoxShape.circle",
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 204.57142639160156,
+            "y": 118.16324615478516
+          },
+          "reactionTime": 953,
+          "tappedTimeElapsed": 9834,
+          "isHit": 1
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 726,
+          "tappedPosition": {
+            "x": 348.244873046875,
+            "y": 101.02040100097656
+          },
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 12390,
+          "isHit": 1
+        },
+        {
+          "tappedTimeElapsed": 14706,
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 910,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 216.93873596191406,
+            "x": 524.5714111328125
+          }
+        },
+        {
+          "isHit": 1,
+          "tappedTimeElapsed": 18258,
+          "reactionTime": 1280,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "x": 321.7142639160156,
+            "y": 87.55101013183594
+          }
+        },
+        {
+          "tappedTimeElapsed": 21625,
+          "reactionTime": 870,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 106.61224365234375,
+            "y": 90.40815734863281
+          },
+          "selectedValue": "BoxShape.circle",
+          "isHit": 1
+        },
+        {
+          "tappedPosition": {
+            "x": 576.8162841796875,
+            "y": 143.06121826171875
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 2387,
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 26946,
+          "isHit": 1
+        },
+        {
+          "isHit": 1,
+          "reactionTime": 676,
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 30606,
+          "tappedPosition": {
+            "x": 239.26527404785156,
+            "y": 219.79588317871094
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        }
+      ]
+    },
+    "taskType": "TaskType.ProcessingSpeed"
+  }
+}

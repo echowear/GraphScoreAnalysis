@@ -1,0 +1,161 @@
+{
+  "ReactionTime": {
+    "analysisResult": {
+      "percentCorrect": [
+        100
+      ],
+      "variance": 0.0,
+      "completionTimes": [
+        28017
+      ],
+      "errorType": "ErrorType.None",
+      "taskSignature": "d945747c5c2b6dbc342c1b82945b8d7ac373ecb5186c1d8d57058cc5ff487432",
+      "errorRates": [
+        0.0
+      ],
+      "taskName": "TaskName.ReactionTime",
+      "mean": 100.0,
+      "responseLatency": 780,
+      "learningRate": 0.0
+    },
+    "taskType": "TaskType.ProcessingSpeed",
+    "taskName": "TaskName.ReactionTime",
+    "totalScore": 10,
+    "trialResponses": {
+      "trial1": [
+        {
+          "reactionTime": 968,
+          "tappedPosition": {
+            "y": 204.26666666666668,
+            "x": 198.93333333333334
+          },
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 1266,
+          "isHit": 1,
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "tappedPosition": {
+            "x": 257.6,
+            "y": 405.8666666666667
+          },
+          "reactionTime": 769,
+          "tappedTimeElapsed": 4248,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 558,
+          "tappedPosition": {
+            "x": 151.46666666666667,
+            "y": 558.9333333333333
+          },
+          "tappedTimeElapsed": 8000,
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 580,
+          "tappedTimeElapsed": 11925,
+          "tappedPosition": {
+            "y": 369.06666666666666,
+            "x": 162.13333333333333
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "isHit": 1,
+          "tappedTimeElapsed": 14319,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 1069,
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "y": 174.93333333333334,
+            "x": 263.46666666666664
+          }
+        },
+        {
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 16149,
+          "reactionTime": 584,
+          "isHit": 1,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 252.26666666666668,
+            "y": 412.26666666666665
+          }
+        },
+        {
+          "isHit": 1,
+          "tappedTimeElapsed": 19784,
+          "tappedPosition": {
+            "y": 256.53333333333336,
+            "x": 319.46666666666664
+          },
+          "reactionTime": 906,
+          "selectedValue": "BoxShape.circle",
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "isHit": 1,
+          "reactionTime": 662,
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "x": 251.2,
+            "y": 597.3333333333334
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedTimeElapsed": 22040
+        },
+        {
+          "selectedValue": "BoxShape.circle",
+          "isHit": 1,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 185.06666666666666,
+            "y": 330.1333333333333
+          },
+          "reactionTime": 694,
+          "tappedTimeElapsed": 24872
+        },
+        {
+          "reactionTime": 1006,
+          "tappedTimeElapsed": 28016,
+          "isHit": 1,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "y": 652.8,
+            "x": 108.8
+          }
+        }
+      ]
+    },
+    "keepAlive": true
+  },
+  "id": "1718133003649"
+}

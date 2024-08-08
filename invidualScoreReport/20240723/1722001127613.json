@@ -1,0 +1,143 @@
+{
+  "id": "1722001127613",
+  "FigureRecall": {
+    "taskType": "TaskType.Learning",
+    "serialPositionEffect": [
+      {
+        "PrimacyEffect": 0.0,
+        "RecencyEffect": 0.5,
+        "MiddleEffect": 1.0
+      }
+    ],
+    "analysisResult": {
+      "percentCorrect": [
+        50
+      ],
+      "errorType": "ErrorType.None",
+      "completionTimes": [
+        4089
+      ],
+      "responseLatency": 683,
+      "mean": Infinity,
+      "variance": Infinity,
+      "errorRates": [
+        0.5
+      ],
+      "learningRate": 0.0,
+      "taskSignature": "983533113f6c0e53904b1979ed1d5f474295d2c616e24a72a557c70b3b891b02",
+      "taskName": "TaskName.FigureRecall"
+    },
+    "trialResponses": {
+      "trial0": [
+        {
+          "isHit": 1,
+          "correctValue": [
+            "a1.png"
+          ],
+          "selectedValue": "a4.png",
+          "tappedPosition": {
+            "x": 975.491943359375,
+            "y": 454.9542236328125
+          },
+          "tappedTimeElapsed": 1156,
+          "reactionTime": 1161
+        },
+        {
+          "reactionTime": 512,
+          "isHit": 1,
+          "tappedTimeElapsed": 1665,
+          "selectedValue": "b4.png",
+          "correctValue": [
+            "b1.png"
+          ],
+          "tappedPosition": {
+            "y": 425.6453043619792,
+            "x": 529.0577799479166
+          }
+        },
+        {
+          "correctValue": [
+            "c1.png"
+          ],
+          "selectedValue": "c1.png",
+          "tappedTimeElapsed": 2241,
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 460.2831217447917,
+            "x": 763.602294921875
+          },
+          "reactionTime": 576
+        },
+        {
+          "tappedTimeElapsed": 2814,
+          "correctValue": [
+            "d1.png"
+          ],
+          "selectedValue": "d1.png",
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 435.636962890625,
+            "x": 354.4820149739583
+          },
+          "reactionTime": 573
+        },
+        {
+          "isHit": 1,
+          "correctValue": [
+            "e1.png"
+          ],
+          "selectedValue": "e3.png",
+          "reactionTime": 609,
+          "tappedTimeElapsed": 3423,
+          "tappedPosition": {
+            "y": 450.2914225260417,
+            "x": 812.2435709635416
+          }
+        },
+        {
+          "selectedValue": "f1.png",
+          "tappedTimeElapsed": 4087,
+          "tappedPosition": {
+            "y": 435.636962890625,
+            "x": 976.8245442708334
+          },
+          "isHit": 1,
+          "correctValue": [
+            "f1.png"
+          ],
+          "reactionTime": 664
+        }
+      ]
+    },
+    "taskName": "TaskName.FigureRecall",
+    "totalScore": 3,
+    "keepAlive": true
+  },
+  "Category": {
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "trialResponses": {
+      "trial1": []
+    },
+    "analysisResult": {
+      "errorRates": [
+        NaN
+      ],
+      "responseLatency": 0,
+      "variance": 0.0,
+      "taskName": "TaskName.Category",
+      "mean": 0.0,
+      "errorType": "ErrorType.None",
+      "completionTimes": [
+        72566
+      ],
+      "percentCorrect": [
+        0
+      ],
+      "taskSignature": "f3fbe35c2cc4b40c3293fd9ff8e12a8331011b2977243a8eea094171d532b9c6",
+      "learningRate": 0.0
+    },
+    "totalScore": 0,
+    "keepAlive": true,
+    "taskName": "TaskName.Category"
+  }
+}

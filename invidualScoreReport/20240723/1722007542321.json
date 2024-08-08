@@ -1,0 +1,161 @@
+{
+  "id": "1722007542321",
+  "ReactionTime": {
+    "taskName": "TaskName.ReactionTime",
+    "trialResponses": {
+      "trial1": [
+        {
+          "tappedPosition": {
+            "x": 636.1131184895834,
+            "y": 456.5084635416667
+          },
+          "tappedTimeElapsed": 1066,
+          "isHit": 1,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 749
+        },
+        {
+          "reactionTime": 3065,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedTimeElapsed": 6051,
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 100.80488416883681,
+            "x": 604.1297743055555
+          },
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "tappedTimeElapsed": 9655,
+          "tappedPosition": {
+            "x": 317.1681315104167,
+            "y": 152.7615966796875
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 726,
+          "selectedValue": "BoxShape.circle",
+          "isHit": 1
+        },
+        {
+          "tappedTimeElapsed": 11621,
+          "reactionTime": 545,
+          "tappedPosition": {
+            "y": 145.21232096354166,
+            "x": 669.4290907118055
+          },
+          "selectedValue": "BoxShape.circle",
+          "isHit": 1,
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "tappedTimeElapsed": 15108,
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 236.24758572048611,
+            "x": 361.5894368489583
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 756
+        },
+        {
+          "tappedPosition": {
+            "y": 253.56648763020834,
+            "x": 579.6980794270834
+          },
+          "reactionTime": 562,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedTimeElapsed": 17836,
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "isHit": 1,
+          "reactionTime": 1215,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "y": 438.3014322916667,
+            "x": 465.9794921875
+          },
+          "tappedTimeElapsed": 21013,
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "tappedTimeElapsed": 24596,
+          "reactionTime": 1788,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 637.8899739583334,
+            "y": 134.99861653645834
+          },
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "tappedTimeElapsed": 27536,
+          "selectedValue": "BoxShape.circle",
+          "isHit": 1,
+          "reactionTime": 956,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 445.98993598090277,
+            "y": 411.6569552951389
+          }
+        },
+        {
+          "reactionTime": 1761,
+          "tappedPosition": {
+            "y": 220.70496961805554,
+            "x": 719.1809895833334
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 32464,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "selectedValue": "BoxShape.circle"
+        }
+      ]
+    },
+    "analysisResult": {
+      "errorType": "ErrorType.None",
+      "errorRates": [
+        0.0
+      ],
+      "learningRate": 0.0,
+      "taskName": "TaskName.ReactionTime",
+      "taskSignature": "5c7b7ac726ca01fee90b1d612d604c8cb6807278f603981ec252d4d63ff6c37e",
+      "responseLatency": 1212,
+      "variance": 0.0,
+      "completionTimes": [
+        32465
+      ],
+      "percentCorrect": [
+        100
+      ],
+      "mean": 100.0
+    },
+    "taskType": "TaskType.ProcessingSpeed",
+    "keepAlive": true,
+    "totalScore": 10
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": "1716572042235",
+  "ReactionTime": {
+    "taskType": "TaskType.ProcessingSpeed",
+    "analysisResult": {
+      "completionTimes": [
+        47398
+      ],
+      "allScores": [
+        100
+      ],
+      "intrusions": 0,
+      "errorRate": 0,
+      "errorType": "ErrorType.Other",
+      "learningRate": 0,
+      "responseLatency": 2084,
+      "taskName": "TaskName.ReactionTime",
+      "mean": 100,
+      "taskSignature": ""
+    },
+    "taskName": "TaskName.ReactionTime",
+    "totalScore": 100,
+    "keepAlive": true,
+    "taskResponses": {
+      "trial1": [
+        {
+          "isHit": 1,
+          "selectedValue": null,
+          "correctValue": null,
+          "tappedPosition": {
+            "x": 1260.2421875,
+            "y": 224.78125
+          },
+          "tappedTimeElapsed": 3843,
+          "reactionTime": 3542
+        },
+        {
+          "tappedTimeElapsed": 6808,
+          "tappedPosition": {
+            "y": 211.76953125,
+            "x": 535.57421875
+          },
+          "reactionTime": 6507,
+          "selectedValue": null,
+          "isHit": 0,
+          "correctValue": null
+        },
+        {
+          "tappedPosition": {
+            "x": 674.65234375,
+            "y": 237.484375
+          },
+          "reactionTime": 7073,
+          "selectedValue": null,
+          "correctValue": null,
+          "isHit": 0,
+          "tappedTimeElapsed": 7374
+        },
+        {
+          "reactionTime": 1075,
+          "tappedPosition": {
+            "y": 457.859375,
+            "x": 1163.98828125
+          },
+          "selectedValue": null,
+          "tappedTimeElapsed": 8804,
+          "correctValue": null,
+          "isHit": 1
+        },
+        {
+          "reactionTime": 1882,
+          "tappedTimeElapsed": 12004,
+          "correctValue": null,
+          "isHit": 1,
+          "selectedValue": null,
+          "tappedPosition": {
+            "x": 289.96875,
+            "y": 609.9921875
+          }
+        },
+        {
+          "tappedTimeElapsed": 16008,
+          "tappedPosition": {
+            "x": 522.33203125,
+            "y": 374.83203125
+          },
+          "reactionTime": 2759,
+          "isHit": 1,
+          "correctValue": null,
+          "selectedValue": null
+        },
+        {
+          "selectedValue": null,
+          "correctValue": null,
+          "reactionTime": 4492,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 1291.640625,
+            "y": 328.1328125
+          },
+          "tappedTimeElapsed": 23845
+        },
+        {
+          "correctValue": null,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 1045.453125,
+            "y": 496.58203125
+          },
+          "selectedValue": null,
+          "tappedTimeElapsed": 28975,
+          "reactionTime": 1467
+        },
+        {
+          "tappedPosition": {
+            "x": 91.8125,
+            "y": 608.80078125
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 34141,
+          "correctValue": null,
+          "reactionTime": 1397,
+          "selectedValue": null
+        },
+        {
+          "tappedTimeElapsed": 38858,
+          "correctValue": null,
+          "isHit": 1,
+          "selectedValue": null,
+          "reactionTime": 1289,
+          "tappedPosition": {
+            "y": 391.6015625,
+            "x": 250.5546875
+          }
+        },
+        {
+          "tappedTimeElapsed": 42461,
+          "selectedValue": null,
+          "tappedPosition": {
+            "y": 375.8203125,
+            "x": 697.34765625
+          },
+          "reactionTime": 1120,
+          "isHit": 1,
+          "correctValue": null
+        },
+        {
+          "isHit": 1,
+          "selectedValue": null,
+          "correctValue": null,
+          "tappedPosition": {
+            "x": 871.8125,
+            "y": 154.453125
+          },
+          "tappedTimeElapsed": 47398,
+          "reactionTime": 1816
+        }
+      ]
+    }
+  }
+}

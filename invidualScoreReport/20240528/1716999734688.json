@@ -1,0 +1,190 @@
+{
+  "id": "1716999734688",
+  "ObjectRecognition": {
+    "taskResponses": {
+      "trial1": [
+        {
+          "reactionTime": 926,
+          "correctValue": [
+            "Tree"
+          ],
+          "tappedPosition": {
+            "x": 640.6953125,
+            "y": 580.32421875
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 925,
+          "selectedValue": "Branch"
+        },
+        {
+          "selectedValue": "Bicycle",
+          "reactionTime": 733,
+          "tappedTimeElapsed": 1658,
+          "correctValue": [
+            "Bicycle"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 580.32421875,
+            "x": 640.6953125
+          }
+        },
+        {
+          "tappedTimeElapsed": 2195,
+          "selectedValue": "Shed",
+          "correctValue": [
+            "House"
+          ],
+          "isHit": 1,
+          "reactionTime": 537,
+          "tappedPosition": {
+            "x": 640.6953125,
+            "y": 580.32421875
+          }
+        },
+        {
+          "isHit": 1,
+          "selectedValue": "Catepillar",
+          "reactionTime": 618,
+          "tappedPosition": {
+            "y": 580.32421875,
+            "x": 640.6953125
+          },
+          "correctValue": [
+            "Butterfly"
+          ],
+          "tappedTimeElapsed": 2813
+        },
+        {
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 580.32421875,
+            "x": 640.6953125
+          },
+          "reactionTime": 602,
+          "tappedTimeElapsed": 3415,
+          "selectedValue": "Giraffe",
+          "correctValue": [
+            "Giraffe"
+          ]
+        },
+        {
+          "tappedTimeElapsed": 3929,
+          "isHit": 1,
+          "selectedValue": "Canoe",
+          "reactionTime": 514,
+          "tappedPosition": {
+            "y": 580.32421875,
+            "x": 640.6953125
+          },
+          "correctValue": [
+            "Kayak"
+          ]
+        },
+        {
+          "tappedTimeElapsed": 5641,
+          "tappedPosition": {
+            "y": 563.1328125,
+            "x": 642.44921875
+          },
+          "isHit": 1,
+          "correctValue": [
+            "Pear"
+          ],
+          "reactionTime": 1712,
+          "selectedValue": "Pear"
+        },
+        {
+          "selectedValue": "Hippopotamus",
+          "correctValue": [
+            "Hippopotamus"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 642.58203125,
+            "y": 562.86328125
+          },
+          "tappedTimeElapsed": 6342,
+          "reactionTime": 701
+        },
+        {
+          "selectedValue": "Cantaloupe",
+          "tappedTimeElapsed": 6892,
+          "reactionTime": 550,
+          "tappedPosition": {
+            "x": 642.58203125,
+            "y": 562.86328125
+          },
+          "isHit": 1,
+          "correctValue": [
+            "Watermelon"
+          ]
+        },
+        {
+          "tappedPosition": {
+            "y": 562.86328125,
+            "x": 642.58203125
+          },
+          "selectedValue": "Tulip",
+          "tappedTimeElapsed": 7410,
+          "reactionTime": 518,
+          "isHit": 1,
+          "correctValue": [
+            "Daisy"
+          ]
+        },
+        {
+          "reactionTime": 549,
+          "selectedValue": "Grapefruit",
+          "tappedTimeElapsed": 7959,
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 562.86328125,
+            "x": 642.58203125
+          },
+          "correctValue": [
+            "Grapefruit"
+          ]
+        },
+        {
+          "selectedValue": "Accordion",
+          "reactionTime": 516,
+          "tappedTimeElapsed": 8475,
+          "correctValue": [
+            "Accordion"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 642.58203125,
+            "y": 562.86328125
+          }
+        }
+      ]
+    },
+    "keepAlive": true,
+    "analysisResult": {
+      "taskSignature": "",
+      "allScores": [
+        50
+      ],
+      "mean": 50,
+      "taskName": "TaskName.ObjectRecognition",
+      "errorRates": [
+        0.5
+      ],
+      "completionTimes": [
+        8475
+      ],
+      "variance": 0,
+      "learningRate": 0,
+      "intrusions": [
+        6
+      ],
+      "responseLatency": 706,
+      "errorType": "ErrorType.Other"
+    },
+    "totalScore": 50,
+    "taskType": "TaskType.Language",
+    "taskName": "TaskName.ObjectRecognition"
+  }
+}

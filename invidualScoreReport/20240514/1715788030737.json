@@ -1,0 +1,227 @@
+{
+  "LongTermWordRecall": {
+    "taskResponses": [
+      {
+        "reactionTime": 1319,
+        "tappedTimeElapsed": 1319,
+        "correctValue": [
+          "Apple",
+          "Dawn",
+          "Pool",
+          "Tree",
+          "Children"
+        ],
+        "isHit": 1,
+        "tappedPosition": {
+          "x": 272.12890625,
+          "y": 189.7734375
+        },
+        "selectedValue": "Bell"
+      },
+      {
+        "correctValue": [
+          "Apple",
+          "Dawn",
+          "Pool",
+          "Tree",
+          "Children"
+        ],
+        "tappedTimeElapsed": 1787,
+        "isHit": 1,
+        "tappedPosition": {
+          "x": 586.6796875,
+          "y": 208.296875
+        },
+        "selectedValue": "Window",
+        "reactionTime": 468
+      },
+      {
+        "tappedPosition": {
+          "x": 775.23046875,
+          "y": 176.5625
+        },
+        "tappedTimeElapsed": 2237,
+        "selectedValue": "Hat",
+        "isHit": 1,
+        "correctValue": [
+          "Apple",
+          "Dawn",
+          "Pool",
+          "Tree",
+          "Children"
+        ],
+        "reactionTime": 450
+      },
+      {
+        "correctValue": [
+          "Apple",
+          "Dawn",
+          "Pool",
+          "Tree",
+          "Children"
+        ],
+        "reactionTime": 483,
+        "tappedTimeElapsed": 2720,
+        "isHit": 1,
+        "selectedValue": "Ranger",
+        "tappedPosition": {
+          "y": 206.89453125,
+          "x": 925.56640625
+        }
+      },
+      {
+        "correctValue": [
+          "Apple",
+          "Dawn",
+          "Pool",
+          "Tree",
+          "Children"
+        ],
+        "tappedTimeElapsed": 5587,
+        "selectedValue": "Coffee",
+        "reactionTime": 2867,
+        "tappedPosition": {
+          "x": 232.78125,
+          "y": 289.890625
+        },
+        "isHit": 1
+      },
+      {
+        "tappedPosition": {
+          "y": 297.2109375,
+          "x": 419.70703125
+        },
+        "isHit": 1,
+        "tappedTimeElapsed": 6004,
+        "reactionTime": 417,
+        "correctValue": [
+          "Apple",
+          "Dawn",
+          "Pool",
+          "Tree",
+          "Children"
+        ],
+        "selectedValue": "Towel"
+      },
+      {
+        "tappedTimeElapsed": 6437,
+        "selectedValue": "Curtain",
+        "correctValue": [
+          "Apple",
+          "Dawn",
+          "Pool",
+          "Tree",
+          "Children"
+        ],
+        "reactionTime": 433,
+        "tappedPosition": {
+          "x": 634.51171875,
+          "y": 274.78515625
+        },
+        "isHit": 1
+      },
+      {
+        "isHit": 1,
+        "reactionTime": 417,
+        "tappedPosition": {
+          "y": 282.234375,
+          "x": 816.90625
+        },
+        "tappedTimeElapsed": 6854,
+        "correctValue": [
+          "Apple",
+          "Dawn",
+          "Pool",
+          "Tree",
+          "Children"
+        ],
+        "selectedValue": "Flower"
+      },
+      {
+        "tappedTimeElapsed": 9236,
+        "isHit": 1,
+        "selectedValue": "Cloud",
+        "tappedPosition": {
+          "x": 272.828125,
+          "y": 215.25390625
+        },
+        "reactionTime": 2382,
+        "correctValue": [
+          "Apple",
+          "Dawn",
+          "Pool",
+          "Tree",
+          "Children"
+        ]
+      },
+      {
+        "selectedValue": "Garden",
+        "reactionTime": 417,
+        "isHit": 1,
+        "tappedTimeElapsed": 9653,
+        "tappedPosition": {
+          "y": 215.97265625,
+          "x": 493.578125
+        },
+        "correctValue": [
+          "Apple",
+          "Dawn",
+          "Pool",
+          "Tree",
+          "Children"
+        ]
+      },
+      {
+        "reactionTime": 450,
+        "isHit": 1,
+        "tappedTimeElapsed": 10103,
+        "selectedValue": "Glasses",
+        "correctValue": [
+          "Apple",
+          "Dawn",
+          "Pool",
+          "Tree",
+          "Children"
+        ],
+        "tappedPosition": {
+          "y": 210.78125,
+          "x": 717.08984375
+        }
+      },
+      {
+        "correctValue": [
+          "Apple",
+          "Dawn",
+          "Pool",
+          "Tree",
+          "Children"
+        ],
+        "isHit": 1,
+        "tappedPosition": {
+          "y": 348.078125,
+          "x": 738.87109375
+        },
+        "selectedValue": "Nest",
+        "reactionTime": 433,
+        "tappedTimeElapsed": 10536
+      }
+    ],
+    "analysisResult": {
+      "taskName": "TaskName.LongTermWordRecall",
+      "taskSignature": "",
+      "mean": 0,
+      "intrusions": 0,
+      "errorType": "ErrorType.Other",
+      "score": 0,
+      "responseLatency": 878,
+      "errorRate": 0,
+      "learningRate": 0
+    },
+    "taskName": "TaskName.LongTermWordRecall",
+    "completionTime": 12202,
+    "taskType": "TaskType.Memory",
+    "keepAlive": true,
+    "score": 0
+  },
+  "id": "1715788030737"
+}

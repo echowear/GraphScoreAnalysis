@@ -1,0 +1,140 @@
+{
+  "id": "1717526954986",
+  "WordRecall": {
+    "trialResponses": {
+      "trial1": [
+        {
+          "isHit": 0,
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "selectedValue": "",
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedTimeElapsed": 0,
+          "reactionTime": 0
+        },
+        {
+          "reactionTime": 0,
+          "tappedTimeElapsed": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "isHit": 1,
+          "selectedValue": "moon"
+        },
+        {
+          "isHit": 1,
+          "reactionTime": 0,
+          "tappedTimeElapsed": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "selectedValue": "garden"
+        },
+        {
+          "selectedValue": "coffee",
+          "tappedTimeElapsed": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "reactionTime": 0,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ]
+    },
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "taskName": "TaskName.WordRecall",
+    "totalScore": 3,
+    "repetitionCount": [
+      0
+    ],
+    "keepAlive": true,
+    "serialPositionEffect": [
+      {
+        "RecencyEffect": 0,
+        "PrimacyEffect": 0.25,
+        "MiddleEffect": 0.5
+      }
+    ],
+    "analysisResult": {
+      "completionTimes": [
+        21886
+      ],
+      "errorType": "ErrorType.None",
+      "errorRates": [
+        0.25
+      ],
+      "taskName": "TaskName.WordRecall",
+      "responseLatency": 0,
+      "percentCorrect": [
+        25
+      ],
+      "mean": 25,
+      "taskSignature": "db7c4bde71e91dc1e361fb8f586bed6b46480894af476f21fb8e6f63b3f7fc21",
+      "intrusions": [
+        0
+      ],
+      "learningRate": 0,
+      "variance": 0
+    }
+  }
+}

@@ -1,0 +1,1741 @@
+{
+  "ObjectRecognition": {
+    "trialResponses": {
+      "trial1": [
+        {
+          "tappedPosition": {
+            "x": 1031.4627278645833,
+            "y": 597.5020751953125
+          },
+          "correctValue": [
+            "\u00c1rvore"
+          ],
+          "isHit": 1,
+          "selectedValue": "\u00c1rvore",
+          "reactionTime": 2949,
+          "tappedTimeElapsed": 2949
+        },
+        {
+          "tappedPosition": {
+            "x": 646.996337890625,
+            "y": 600.8326416015625
+          },
+          "selectedValue": "Bicicleta",
+          "tappedTimeElapsed": 4618,
+          "correctValue": [
+            "Bicicleta"
+          ],
+          "reactionTime": 1669,
+          "isHit": 1
+        },
+        {
+          "selectedValue": "Casa",
+          "tappedTimeElapsed": 7181,
+          "reactionTime": 2563,
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 615.4871012369791,
+            "x": 1023.4669596354166
+          },
+          "correctValue": [
+            "Casa"
+          ]
+        },
+        {
+          "correctValue": [
+            "Borboleta"
+          ],
+          "reactionTime": 1950,
+          "selectedValue": "Borboleta",
+          "tappedTimeElapsed": 9131,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 305.17437744140625,
+            "y": 592.8393147786459
+          }
+        },
+        {
+          "tappedPosition": {
+            "x": 670.3175455729166,
+            "y": 582.1815185546875
+          },
+          "reactionTime": 1917,
+          "selectedValue": "Girafa",
+          "correctValue": [
+            "Girafa"
+          ],
+          "isHit": 1,
+          "tappedTimeElapsed": 11048
+        },
+        {
+          "selectedValue": "Navio",
+          "isHit": 1,
+          "correctValue": [
+            "Caiaque"
+          ],
+          "tappedTimeElapsed": 13527,
+          "reactionTime": 2479,
+          "tappedPosition": {
+            "y": 604.1632080078125,
+            "x": 1037.4596354166667
+          }
+        },
+        {
+          "tappedTimeElapsed": 15594,
+          "selectedValue": "Pera",
+          "reactionTime": 2067,
+          "tappedPosition": {
+            "y": 624.8126627604166,
+            "x": 680.9786376953125
+          },
+          "correctValue": [
+            "Pera"
+          ],
+          "isHit": 1
+        },
+        {
+          "correctValue": [
+            "Hipop\u00f3tamo"
+          ],
+          "isHit": 1,
+          "selectedValue": "Hipop\u00f3tamo",
+          "tappedPosition": {
+            "y": 571.5237630208334,
+            "x": 692.972412109375
+          },
+          "tappedTimeElapsed": 17280,
+          "reactionTime": 1686
+        },
+        {
+          "tappedPosition": {
+            "y": 620.8159993489584,
+            "x": 1050.1197102864583
+          },
+          "correctValue": [
+            "Melancia"
+          ],
+          "selectedValue": "Melancia",
+          "reactionTime": 2132,
+          "tappedTimeElapsed": 19412,
+          "isHit": 1
+        },
+        {
+          "correctValue": [
+            "Margarida"
+          ],
+          "reactionTime": 2563,
+          "tappedPosition": {
+            "y": 596.1698811848959,
+            "x": 1020.8016764322916
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 21975,
+          "selectedValue": "Rosa"
+        },
+        {
+          "correctValue": [
+            "Grapefruit"
+          ],
+          "selectedValue": "Grapefruit",
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 596.8359781901041,
+            "x": 688.3081868489584
+          },
+          "reactionTime": 2462,
+          "tappedTimeElapsed": 24437
+        },
+        {
+          "isHit": 1,
+          "correctValue": [
+            "Acorde\u00e3o"
+          ],
+          "tappedTimeElapsed": 26107,
+          "reactionTime": 1670,
+          "selectedValue": "Gaita",
+          "tappedPosition": {
+            "y": 605.4954427083334,
+            "x": 1045.4554850260417
+          }
+        }
+      ]
+    },
+    "keepAlive": true,
+    "totalScore": 9,
+    "analysisResult": {
+      "taskName": "TaskName.ObjectRecognition",
+      "taskSignature": "53fcb11a2664ff3ed423557f2a69b75fda8c6e3de08c00b9bf64e8973f1157ff",
+      "learningRate": 0.0,
+      "percentCorrect": [
+        75
+      ],
+      "errorRates": [
+        0.25
+      ],
+      "responseLatency": 2176,
+      "mean": 75.0,
+      "variance": 0.0,
+      "completionTimes": [
+        26107
+      ],
+      "errorType": "ErrorType.None"
+    },
+    "taskName": "TaskName.ObjectRecognition",
+    "taskType": "TaskType.Language"
+  },
+  "WordRecall": {
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "totalScore": 0,
+    "analysisResult": {
+      "mean": 0.0,
+      "intrusions": [
+        0,
+        10,
+        3,
+        0
+      ],
+      "responseLatency": 0,
+      "taskSignature": "8547914a02d29e0e2f3e23e72ec32885776253b7e739a1c4588026b7b3839eee",
+      "percentCorrect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "completionTimes": [
+        7351,
+        32676,
+        87625,
+        51486
+      ],
+      "errorType": "ErrorType.None",
+      "taskName": "TaskName.WordRecall",
+      "errorRates": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "learningRate": 0.0,
+      "variance": 0.0
+    },
+    "taskName": "TaskName.WordRecall",
+    "serialPositionEffect": [
+      {
+        "RecencyEffect": 0.0,
+        "PrimacyEffect": 0.0,
+        "MiddleEffect": 0.0
+      },
+      {
+        "PrimacyEffect": 0.0,
+        "MiddleEffect": 0.0,
+        "RecencyEffect": 0.0
+      },
+      {
+        "MiddleEffect": 0.0,
+        "RecencyEffect": 0.0,
+        "PrimacyEffect": 0.0
+      },
+      {
+        "MiddleEffect": 0.0,
+        "RecencyEffect": 0.0,
+        "PrimacyEffect": 0.0
+      }
+    ],
+    "repetitionCount": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "keepAlive": true,
+    "trialResponses": {
+      "trial2": [
+        {
+          "isHit": 0,
+          "reactionTime": 0,
+          "selectedValue": "",
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedTimeElapsed": 0,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          }
+        },
+        {
+          "selectedValue": "apache",
+          "tappedTimeElapsed": 0,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "reactionTime": 0,
+          "isHit": 0
+        },
+        {
+          "selectedValue": "no",
+          "tappedTimeElapsed": 0,
+          "reactionTime": 0,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "isHit": 0
+        },
+        {
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "reactionTime": 0,
+          "isHit": 0,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "selectedValue": "colton",
+          "tappedTimeElapsed": 0
+        },
+        {
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "selectedValue": "coming",
+          "reactionTime": 0,
+          "isHit": 0,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "tappedTimeElapsed": 0
+        },
+        {
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "isHit": 0,
+          "selectedValue": "back",
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "tappedTimeElapsed": 0,
+          "reactionTime": 0
+        },
+        {
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "isHit": 0,
+          "tappedTimeElapsed": 0,
+          "reactionTime": 0,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "selectedValue": "i'm"
+        },
+        {
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedTimeElapsed": 0,
+          "isHit": 0,
+          "reactionTime": 0,
+          "selectedValue": "still"
+        },
+        {
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "selectedValue": "here",
+          "tappedTimeElapsed": 0,
+          "isHit": 0,
+          "reactionTime": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ]
+        },
+        {
+          "reactionTime": 0,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedTimeElapsed": 0,
+          "isHit": 0,
+          "selectedValue": "so"
+        },
+        {
+          "selectedValue": "yeah",
+          "tappedTimeElapsed": 0,
+          "reactionTime": 0,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "isHit": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ]
+        }
+      ],
+      "trial4": [
+        {
+          "selectedValue": "",
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "reactionTime": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedTimeElapsed": 0,
+          "isHit": 0
+        }
+      ],
+      "trial3": [
+        {
+          "isHit": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedTimeElapsed": 0,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "selectedValue": "",
+          "reactionTime": 0
+        },
+        {
+          "tappedTimeElapsed": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "selectedValue": "and",
+          "isHit": 0,
+          "reactionTime": 0,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          }
+        },
+        {
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedTimeElapsed": 0,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "isHit": 0,
+          "reactionTime": 0,
+          "selectedValue": "another"
+        },
+        {
+          "reactionTime": 0,
+          "isHit": 0,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "tappedTimeElapsed": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "selectedValue": "device"
+        }
+      ],
+      "trial1": [
+        {
+          "isHit": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "selectedValue": "",
+          "reactionTime": 0,
+          "tappedTimeElapsed": 0
+        }
+      ]
+    }
+  },
+  "ReactionTime": {
+    "taskName": "TaskName.ReactionTime",
+    "analysisResult": {
+      "errorRates": [
+        0.0
+      ],
+      "percentCorrect": [
+        100
+      ],
+      "completionTimes": [
+        117351
+      ],
+      "errorType": "ErrorType.None",
+      "learningRate": 0.0,
+      "responseLatency": 9451,
+      "mean": 100.0,
+      "taskSignature": "fdbcf6ff06c5e6572aaf090e14da831f94c24a8f9d00489723aa12a2b550c8cb",
+      "variance": 0.0,
+      "taskName": "TaskName.ReactionTime"
+    },
+    "keepAlive": true,
+    "trialResponses": {
+      "trial1": [
+        {
+          "tappedTimeElapsed": 17727,
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "y": 285.7618815104167,
+            "x": 597.6886800130209
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 17426
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 62793,
+          "tappedTimeElapsed": 83283,
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "y": 566.1948649088541,
+            "x": 970.161376953125
+          },
+          "isHit": 1
+        },
+        {
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 1153.3992513020833,
+            "y": 385.6786295572917
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 2904,
+          "tappedTimeElapsed": 88457,
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 758.9380696614584,
+            "y": 219.15071614583334
+          },
+          "reactionTime": 1606,
+          "isHit": 1,
+          "tappedTimeElapsed": 92325,
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "tappedPosition": {
+            "y": 686.094970703125,
+            "x": 1010.806884765625
+          },
+          "reactionTime": 1250,
+          "isHit": 1,
+          "tappedTimeElapsed": 96391,
+          "selectedValue": "BoxShape.circle",
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "isHit": 1,
+          "tappedTimeElapsed": 100872,
+          "reactionTime": 1503,
+          "tappedPosition": {
+            "y": 151.87344360351562,
+            "x": 365.1431477864583
+          },
+          "selectedValue": "BoxShape.circle",
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 602.1648763020834,
+            "x": 806.2467447916666
+          },
+          "tappedTimeElapsed": 103681,
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 964
+        },
+        {
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 107251,
+          "tappedPosition": {
+            "y": 135.88675944010416,
+            "x": 127.26704915364583
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "reactionTime": 1341
+        },
+        {
+          "isHit": 1,
+          "tappedTimeElapsed": 113897,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 3487,
+          "tappedPosition": {
+            "y": 418.9841715494792,
+            "x": 126.60072835286458
+          },
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "reactionTime": 1234,
+          "isHit": 1,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 446.4341227213542,
+            "y": 440.9658610026042
+          },
+          "tappedTimeElapsed": 117351,
+          "selectedValue": "BoxShape.circle"
+        }
+      ]
+    },
+    "taskType": "TaskType.ProcessingSpeed",
+    "totalScore": 10
+  },
+  "Category": {
+    "trialResponses": {
+      "trial1": [
+        {
+          "reactionTime": 23842,
+          "tappedPosition": {
+            "y": 445.628662109375,
+            "x": 955.5022786458334
+          },
+          "selectedValue": "Lagarto",
+          "isHit": 1,
+          "tappedTimeElapsed": 23842,
+          "correctValue": [
+            "Castor",
+            "Pregui\u00e7a",
+            "Raposa",
+            "Fur\u00e3o",
+            "Lagarto",
+            "Enguia"
+          ]
+        },
+        {
+          "isHit": 1,
+          "tappedTimeElapsed": 29862,
+          "selectedValue": "Abacaxi",
+          "correctValue": [
+            "Cranberry",
+            "Tangerina",
+            "Mam\u00e3o",
+            "Abacaxi",
+            "Cereja"
+          ],
+          "reactionTime": 6020,
+          "tappedPosition": {
+            "x": 766.267578125,
+            "y": 532.22314453125
+          }
+        },
+        {
+          "reactionTime": 681,
+          "tappedTimeElapsed": 30543,
+          "isHit": 1,
+          "selectedValue": "Tangerina",
+          "tappedPosition": {
+            "x": 521.0619303385416,
+            "y": 540.2165120442709
+          },
+          "correctValue": [
+            "Cranberry",
+            "Tangerina",
+            "Mam\u00e3o",
+            "Abacaxi",
+            "Cereja"
+          ]
+        },
+        {
+          "selectedValue": "Mam\u00e3o",
+          "reactionTime": 1580,
+          "tappedTimeElapsed": 32123,
+          "isHit": 1,
+          "correctValue": [
+            "Cranberry",
+            "Tangerina",
+            "Mam\u00e3o",
+            "Abacaxi",
+            "Cereja"
+          ],
+          "tappedPosition": {
+            "x": 1014.8047688802084,
+            "y": 301.0824381510417
+          }
+        },
+        {
+          "correctValue": [
+            "Ameixa",
+            "Mel\u00e3o",
+            "Framboesa",
+            "Pera",
+            "Damasco",
+            "Lim\u00e3o"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 237.1357218424479,
+            "x": 647.6626790364584
+          },
+          "tappedTimeElapsed": 37100,
+          "selectedValue": "Ameixa",
+          "reactionTime": 4977
+        },
+        {
+          "selectedValue": "Pera",
+          "correctValue": [
+            "Ameixa",
+            "Mel\u00e3o",
+            "Framboesa",
+            "Pera",
+            "Damasco",
+            "Lim\u00e3o"
+          ],
+          "tappedTimeElapsed": 37974,
+          "tappedPosition": {
+            "y": 339.7169189453125,
+            "x": 401.7907307942708
+          },
+          "reactionTime": 874,
+          "isHit": 1
+        },
+        {
+          "correctValue": [
+            "Ameixa",
+            "Mel\u00e3o",
+            "Framboesa",
+            "Pera",
+            "Damasco",
+            "Lim\u00e3o"
+          ],
+          "tappedPosition": {
+            "x": 672.9827880859375,
+            "y": 334.3880208333333
+          },
+          "reactionTime": 943,
+          "selectedValue": "Framboesa",
+          "isHit": 1,
+          "tappedTimeElapsed": 38917
+        },
+        {
+          "selectedValue": "Amora",
+          "correctValue": [
+            "Uva",
+            "Rom\u00e3",
+            "Lim\u00e3o",
+            "Nectarina",
+            "Amora",
+            "Morango"
+          ],
+          "tappedPosition": {
+            "x": 786.9234212239584,
+            "y": 281.0990804036458
+          },
+          "reactionTime": 7142,
+          "tappedTimeElapsed": 46059,
+          "isHit": 1
+        },
+        {
+          "tappedTimeElapsed": 47413,
+          "tappedPosition": {
+            "y": 404.3297526041667,
+            "x": 1032.79541015625
+          },
+          "selectedValue": "Uva",
+          "isHit": 1,
+          "reactionTime": 1354,
+          "correctValue": [
+            "Uva",
+            "Rom\u00e3",
+            "Lim\u00e3o",
+            "Nectarina",
+            "Amora",
+            "Morango"
+          ]
+        },
+        {
+          "tappedTimeElapsed": 54240,
+          "reactionTime": 6827,
+          "tappedPosition": {
+            "x": 323.16501871744794,
+            "y": 554.8709716796875
+          },
+          "correctValue": [
+            "Cal\u00e7as",
+            "Cinto",
+            "Chinelos",
+            "Poncho",
+            "Saia",
+            "Gravata"
+          ],
+          "selectedValue": "Cal\u00e7as",
+          "isHit": 1
+        },
+        {
+          "isHit": 1,
+          "correctValue": [
+            "Cal\u00e7as",
+            "Cinto",
+            "Chinelos",
+            "Poncho",
+            "Saia",
+            "Gravata"
+          ],
+          "tappedPosition": {
+            "y": 550.2081705729166,
+            "x": 990.1509602864584
+          },
+          "reactionTime": 1570,
+          "tappedTimeElapsed": 55810,
+          "selectedValue": "Cinto"
+        },
+        {
+          "correctValue": [
+            "Chap\u00e9u",
+            "Vestido",
+            "Blazer",
+            "Luvas",
+            "Roup\u00e3o",
+            "Bolsa",
+            "Jaqueta"
+          ],
+          "reactionTime": 5488,
+          "isHit": 1,
+          "selectedValue": "Roup\u00e3o",
+          "tappedTimeElapsed": 61298,
+          "tappedPosition": {
+            "x": 1016.1373697916666,
+            "y": 297.7518717447917
+          }
+        },
+        {
+          "correctValue": [
+            "Chap\u00e9u",
+            "Vestido",
+            "Blazer",
+            "Luvas",
+            "Roup\u00e3o",
+            "Bolsa",
+            "Jaqueta"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 418.9841715494792,
+            "x": 1032.79541015625
+          },
+          "reactionTime": 611,
+          "tappedTimeElapsed": 61909,
+          "selectedValue": "Jaqueta"
+        },
+        {
+          "isHit": 1,
+          "correctValue": [
+            "Chap\u00e9u",
+            "Vestido",
+            "Blazer",
+            "Luvas",
+            "Roup\u00e3o",
+            "Bolsa",
+            "Jaqueta"
+          ],
+          "tappedPosition": {
+            "y": 529.5587158203125,
+            "x": 758.9380696614584
+          },
+          "selectedValue": "Vestido",
+          "tappedTimeElapsed": 63215,
+          "reactionTime": 1306
+        },
+        {
+          "tappedPosition": {
+            "x": 315.8354899088542,
+            "y": 432.3064371744792
+          },
+          "selectedValue": "Blusa",
+          "tappedTimeElapsed": 69547,
+          "isHit": 1,
+          "reactionTime": 6332,
+          "correctValue": [
+            "Shorts",
+            "Biqu\u00edni",
+            "Meias",
+            "Cardig\u00e3",
+            "Couve",
+            "Tinta"
+          ]
+        },
+        {
+          "reactionTime": 2115,
+          "correctValue": [
+            "Shorts",
+            "Biqu\u00edni",
+            "Meias",
+            "Cardig\u00e3",
+            "Couve",
+            "Tinta"
+          ],
+          "selectedValue": "Cachecol",
+          "tappedTimeElapsed": 71662,
+          "tappedPosition": {
+            "x": 562.3737386067709,
+            "y": 416.3197428385417
+          },
+          "isHit": 1
+        }
+      ]
+    },
+    "totalScore": 14,
+    "taskName": "TaskName.Category",
+    "keepAlive": true,
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "analysisResult": {
+      "variance": 0.0,
+      "mean": 33.0,
+      "completionTimes": [
+        72473
+      ],
+      "taskName": "TaskName.Category",
+      "taskSignature": "e992104a49b4236a233a0e94772702a9c02d58411271fef4706bf0a05651dfbd",
+      "errorRates": [
+        0.125
+      ],
+      "errorType": "ErrorType.None",
+      "percentCorrect": [
+        33
+      ],
+      "responseLatency": 1706,
+      "learningRate": 0.0
+    }
+  },
+  "WordRecognition": {
+    "trialResponses": {
+      "trial1": [
+        {
+          "tappedTimeElapsed": 2271,
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ],
+          "selectedValue": "Bell",
+          "isHit": 1,
+          "reactionTime": 2271,
+          "tappedPosition": {
+            "y": 234.47127278645834,
+            "x": 302.50909423828125
+          }
+        },
+        {
+          "tappedPosition": {
+            "y": 345.0458170572917,
+            "x": 295.17958577473956
+          },
+          "isHit": 1,
+          "selectedValue": "Nose",
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ],
+          "tappedTimeElapsed": 3892,
+          "reactionTime": 1621
+        },
+        {
+          "tappedTimeElapsed": 5380,
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ],
+          "selectedValue": "Moon",
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 291.8479817708333,
+            "y": 474.2714436848958
+          },
+          "reactionTime": 1488
+        },
+        {
+          "selectedValue": "Hat",
+          "tappedPosition": {
+            "x": 786.2571614583334,
+            "y": 219.15071614583334
+          },
+          "reactionTime": 2297,
+          "isHit": 1,
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ],
+          "tappedTimeElapsed": 7677
+        },
+        {
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ],
+          "tappedTimeElapsed": 9149,
+          "selectedValue": "School",
+          "reactionTime": 1472,
+          "tappedPosition": {
+            "x": 768.2665201822916,
+            "y": 367.693603515625
+          },
+          "isHit": 1
+        },
+        {
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ],
+          "selectedValue": "Mountain",
+          "tappedTimeElapsed": 11630,
+          "reactionTime": 2481,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 971.4939778645834,
+            "y": 502.9142659505208
+          }
+        },
+        {
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ],
+          "tappedTimeElapsed": 18885,
+          "reactionTime": 7255,
+          "tappedPosition": {
+            "x": 778.9276529947916,
+            "y": 492.2564697265625
+          },
+          "selectedValue": "Bird",
+          "isHit": 1
+        },
+        {
+          "tappedPosition": {
+            "y": 215.154052734375,
+            "x": 257.19936116536456
+          },
+          "reactionTime": 7239,
+          "tappedTimeElapsed": 26124,
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ],
+          "isHit": 1,
+          "selectedValue": "Coffee"
+        },
+        {
+          "selectedValue": "Parent",
+          "tappedTimeElapsed": 28606,
+          "reactionTime": 2482,
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 498.25146484375,
+            "x": 543.0504964192709
+          }
+        },
+        {
+          "tappedTimeElapsed": 29991,
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ],
+          "tappedPosition": {
+            "x": 659.6564127604166,
+            "y": 217.15238444010416
+          },
+          "reactionTime": 1385,
+          "selectedValue": "Curtain",
+          "isHit": 1
+        },
+        {
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ],
+          "tappedTimeElapsed": 31513,
+          "isHit": 1,
+          "reactionTime": 1522,
+          "selectedValue": "Farmer",
+          "tappedPosition": {
+            "x": 758.271728515625,
+            "y": 495.5870361328125
+          }
+        },
+        {
+          "tappedTimeElapsed": 33000,
+          "reactionTime": 1487,
+          "tappedPosition": {
+            "x": 863.5502115885416,
+            "y": 367.693603515625
+          },
+          "selectedValue": "Turkey",
+          "isHit": 1,
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ]
+        },
+        {
+          "correctValue": [
+            "Drum",
+            "Curtain",
+            "Bell",
+            "Coffee",
+            "School",
+            "Parent",
+            "Moon",
+            "Garden",
+            "Hat",
+            "Farmer",
+            "Nose",
+            "Turkey"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 1086.1009928385417,
+            "y": 385.0124918619792
+          },
+          "selectedValue": "Drum",
+          "reactionTime": 12876,
+          "tappedTimeElapsed": 45876
+        }
+      ]
+    },
+    "totalScore": 11,
+    "analysisResult": {
+      "errorRates": [
+        0.15384615384615385
+      ],
+      "learningRate": 0.0,
+      "taskSignature": "876f8076702a985af59b0e3e57db3265ae843ffab6e2966c79ae454cf6dd3ff8",
+      "responseLatency": 3529,
+      "mean": 85.0,
+      "completionTimes": [
+        58638
+      ],
+      "intrusions": [
+        2
+      ],
+      "taskName": "TaskName.WordRecognition",
+      "variance": 0.0,
+      "percentCorrect": [
+        85
+      ],
+      "errorType": "ErrorType.None"
+    },
+    "taskName": "TaskName.WordRecognition",
+    "taskType": "TaskType.Memory",
+    "keepAlive": true,
+    "serialPositionEffect": [
+      {
+        "RecencyEffect": 1.0,
+        "PrimacyEffect": 1.0,
+        "MiddleEffect": 0.75
+      }
+    ]
+  },
+  "id": "1721083400677",
+  "FigureRecall": {
+    "totalScore": 4,
+    "keepAlive": true,
+    "trialResponses": {
+      "trial1": [
+        {
+          "tappedTimeElapsed": 18090,
+          "selectedValue": "a1.png",
+          "isHit": 1,
+          "reactionTime": 18090,
+          "correctValue": [
+            "a1.png"
+          ],
+          "tappedPosition": {
+            "x": 536.3872884114584,
+            "y": 527.5603841145834
+          }
+        },
+        {
+          "selectedValue": "b1.png",
+          "tappedPosition": {
+            "x": 771.59814453125,
+            "y": 535.5537109375
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 22324,
+          "correctValue": [
+            "b1.png"
+          ],
+          "reactionTime": 4234
+        },
+        {
+          "reactionTime": 6196,
+          "correctValue": [
+            "c1.png"
+          ],
+          "isHit": 1,
+          "tappedTimeElapsed": 28520,
+          "tappedPosition": {
+            "x": 758.9380696614584,
+            "y": 540.8826090494791
+          },
+          "selectedValue": "c4.png"
+        },
+        {
+          "tappedTimeElapsed": 31895,
+          "reactionTime": 3375,
+          "isHit": 1,
+          "selectedValue": "d3.png",
+          "correctValue": [
+            "d1.png"
+          ],
+          "tappedPosition": {
+            "y": 560.865966796875,
+            "x": 538.38623046875
+          }
+        },
+        {
+          "tappedTimeElapsed": 35149,
+          "isHit": 1,
+          "reactionTime": 3254,
+          "selectedValue": "e1.png",
+          "correctValue": [
+            "e1.png"
+          ],
+          "tappedPosition": {
+            "y": 547.5437418619791,
+            "x": 548.3810221354166
+          }
+        },
+        {
+          "tappedPosition": {
+            "y": 557.535400390625,
+            "x": 736.283203125
+          },
+          "reactionTime": 6264,
+          "selectedValue": "f1.png",
+          "correctValue": [
+            "f1.png"
+          ],
+          "tappedTimeElapsed": 41413,
+          "isHit": 1
+        }
+      ]
+    },
+    "taskType": "TaskType.Learning",
+    "analysisResult": {
+      "taskName": "TaskName.FigureRecall",
+      "completionTimes": [
+        41413
+      ],
+      "learningRate": 0.0,
+      "variance": 0.0,
+      "responseLatency": 6902,
+      "errorType": "ErrorType.None",
+      "taskSignature": "09158436577d0f13e0165552ffc634f8df1cda055ce9742c0ceec9ef2ad4ea47",
+      "errorRates": [
+        0.3333333333333333
+      ],
+      "percentCorrect": [
+        67
+      ],
+      "mean": 67.0
+    },
+    "serialPositionEffect": [
+      {
+        "PrimacyEffect": 1.0,
+        "RecencyEffect": 1.0,
+        "MiddleEffect": 0.0
+      }
+    ],
+    "taskName": "TaskName.FigureRecall"
+  },
+  "Math": {
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "totalScore": 6,
+    "taskName": "TaskName.Math",
+    "trialResponses": {
+      "trial1": [
+        {
+          "correctValue": [
+            "19"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "reactionTime": 18207,
+          "selectedValue": "19",
+          "tappedTimeElapsed": 18207
+        },
+        {
+          "tappedTimeElapsed": 24206,
+          "correctValue": [
+            "31"
+          ],
+          "reactionTime": 5999,
+          "selectedValue": "31",
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          }
+        },
+        {
+          "reactionTime": 25555,
+          "isHit": 1,
+          "correctValue": [
+            "34"
+          ],
+          "tappedTimeElapsed": 49761,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "selectedValue": "44"
+        },
+        {
+          "reactionTime": 17638,
+          "correctValue": [
+            "26"
+          ],
+          "tappedTimeElapsed": 67399,
+          "isHit": 1,
+          "selectedValue": "26",
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          }
+        },
+        {
+          "reactionTime": 14792,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "selectedValue": "32",
+          "correctValue": [
+            "32"
+          ],
+          "tappedTimeElapsed": 82191
+        },
+        {
+          "tappedTimeElapsed": 89861,
+          "reactionTime": 7670,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "correctValue": [
+            "54"
+          ],
+          "selectedValue": "54",
+          "isHit": 1
+        },
+        {
+          "tappedTimeElapsed": 128309,
+          "reactionTime": 38448,
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "selectedValue": "8",
+          "isHit": 1,
+          "correctValue": [
+            "9"
+          ]
+        },
+        {
+          "isHit": 1,
+          "selectedValue": "34",
+          "reactionTime": 42067,
+          "correctValue": [
+            "34"
+          ],
+          "tappedPosition": {
+            "y": 0.0,
+            "x": 0.0
+          },
+          "tappedTimeElapsed": 170376
+        }
+      ]
+    },
+    "analysisResult": {
+      "completionTimes": [
+        170376
+      ],
+      "taskSignature": "7383ee917be1fa7f7c9f7949f324ffa5537d93784fc4835d89192214f7affc41",
+      "learningRate": 0.0,
+      "variance": 0.0,
+      "errorType": "ErrorType.None",
+      "responseLatency": 21297,
+      "errorRates": [
+        0.25
+      ],
+      "mean": 75.0,
+      "taskName": "TaskName.Math",
+      "percentCorrect": [
+        75
+      ]
+    },
+    "keepAlive": true
+  }
+}

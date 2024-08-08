@@ -1,0 +1,68 @@
+{
+  "WordRecall": {
+    "keepAlive": true,
+    "analysisResult": {
+      "learningRate": 0.0,
+      "taskSignature": "0c45de2ab1775497ea3597001e83d896aa5c680b3a969d6fd4b0302834d3e30d",
+      "errorRates": [
+        1.0
+      ],
+      "errorType": "ErrorType.None",
+      "variance": 0.0,
+      "responseLatency": 0,
+      "mean": 0.0,
+      "completionTimes": [
+        40033
+      ],
+      "taskName": "TaskName.WordRecall",
+      "percentCorrect": [
+        0
+      ],
+      "intrusions": [
+        0
+      ]
+    },
+    "totalScore": 0,
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "taskName": "TaskName.WordRecall",
+    "trialResponses": {
+      "trial1": [
+        {
+          "tappedTimeElapsed": 0,
+          "tappedPosition": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "reactionTime": 0,
+          "isHit": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "selectedValue": ""
+        }
+      ]
+    },
+    "serialPositionEffect": [
+      {
+        "RecencyEffect": 0.0,
+        "MiddleEffect": 0.0,
+        "PrimacyEffect": 0.0
+      }
+    ],
+    "repetitionCount": [
+      0
+    ]
+  },
+  "id": "1717453749603"
+}

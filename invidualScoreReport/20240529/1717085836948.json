@@ -1,0 +1,68 @@
+{
+  "ShortTermWordRecall": {
+    "taskResponses": {
+      "trial1": [
+        {
+          "tappedTimeElapsed": 0,
+          "selectedValue": "",
+          "isHit": 0,
+          "reactionTime": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ]
+    },
+    "taskName": "TaskName.ShortTermWordRecall",
+    "keepAlive": true,
+    "serialPositionEffect": [
+      {
+        "PrimacyEffect": 0,
+        "MiddleEffect": 0,
+        "RecencyEffect": 0
+      }
+    ],
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "totalScore": 0,
+    "repetitionCount": [
+      0
+    ],
+    "analysisResult": {
+      "errorRates": [
+        1
+      ],
+      "responseLatency": 0,
+      "errorType": "ErrorType.Other",
+      "taskSignature": "",
+      "learningRate": 0,
+      "variance": 0,
+      "allScores": [
+        0
+      ],
+      "taskName": "TaskName.ShortTermWordRecall",
+      "mean": 0,
+      "completionTimes": [
+        18245
+      ],
+      "intrusions": [
+        0
+      ]
+    }
+  },
+  "id": "1717085836948"
+}

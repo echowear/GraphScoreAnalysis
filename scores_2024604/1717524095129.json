@@ -1,0 +1,92 @@
+{
+  "WordRecall": {
+    "keepAlive": true,
+    "repetitionCount": [
+      0
+    ],
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "trialResponses": {
+      "trial1": [
+        {
+          "reactionTime": 0,
+          "selectedValue": "",
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "tappedTimeElapsed": 0,
+          "isHit": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ]
+        },
+        {
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          },
+          "reactionTime": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "selectedValue": "",
+          "isHit": 0,
+          "tappedTimeElapsed": 0
+        }
+      ]
+    },
+    "serialPositionEffect": [
+      {
+        "MiddleEffect": 0,
+        "RecencyEffect": 0,
+        "PrimacyEffect": 0
+      }
+    ],
+    "taskName": "TaskName.WordRecall",
+    "totalScore": 0,
+    "analysisResult": {
+      "variance": 0,
+      "errorType": "ErrorType.None",
+      "taskSignature": "1b7fb57638490ed70a98f9f50acc3f84f535332e87579b9d26842d0461068d03",
+      "taskName": "TaskName.WordRecall",
+      "intrusions": [
+        0
+      ],
+      "completionTimes": [
+        18122
+      ],
+      "mean": 0,
+      "percentCorrect": [
+        0
+      ],
+      "errorRates": [
+        1
+      ],
+      "responseLatency": 0,
+      "learningRate": 0
+    }
+  },
+  "id": "1717524095129"
+}

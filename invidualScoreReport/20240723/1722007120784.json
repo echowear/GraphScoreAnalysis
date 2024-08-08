@@ -1,0 +1,161 @@
+{
+  "id": "1722007120784",
+  "ReactionTime": {
+    "taskName": "TaskName.ReactionTime",
+    "analysisResult": {
+      "learningRate": 0.0,
+      "errorRates": [
+        0.0
+      ],
+      "responseLatency": 781,
+      "taskSignature": "48c78487a40f5893a79b2da03e0c781bf0f4a8124bd43e84a22b3b6ddae34f26",
+      "completionTimes": [
+        34340
+      ],
+      "mean": 100.0,
+      "errorType": "ErrorType.None",
+      "percentCorrect": [
+        100
+      ],
+      "variance": 0.0,
+      "taskName": "TaskName.ReactionTime"
+    },
+    "trialResponses": {
+      "trial1": [
+        {
+          "tappedTimeElapsed": 1251,
+          "tappedPosition": {
+            "y": 239.80018446180554,
+            "x": 653.8816189236111
+          },
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 920,
+          "isHit": 1,
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "y": 361.9206271701389,
+            "x": 529.5020073784722
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 5300,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 853
+        },
+        {
+          "tappedTimeElapsed": 9464,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 711.1851128472222,
+            "y": 408.10435655381946
+          },
+          "reactionTime": 532,
+          "selectedValue": "BoxShape.circle",
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "tappedPosition": {
+            "y": 238.46793619791666,
+            "x": 315.3912760416667
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedTimeElapsed": 12338,
+          "isHit": 1,
+          "reactionTime": 846,
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "tappedTimeElapsed": 16894,
+          "reactionTime": 613,
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "x": 597.0223524305555,
+            "y": 325.50653754340277
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "reactionTime": 684,
+          "isHit": 1,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 534.83251953125,
+            "y": 130.55787489149304
+          },
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 18636
+        },
+        {
+          "tappedPosition": {
+            "y": 385.900634765625,
+            "x": 739.61474609375
+          },
+          "tappedTimeElapsed": 21843,
+          "selectedValue": "BoxShape.circle",
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "reactionTime": 990
+        },
+        {
+          "reactionTime": 804,
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 25388,
+          "tappedPosition": {
+            "y": 216.70830620659723,
+            "x": 534.3883463541666
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 158.58406575520834,
+            "y": 177.6297607421875
+          },
+          "isHit": 1,
+          "reactionTime": 881,
+          "tappedTimeElapsed": 29860,
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedTimeElapsed": 34339,
+          "reactionTime": 686,
+          "tappedPosition": {
+            "x": 500.1839192708333,
+            "y": 238.46793619791666
+          },
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle"
+        }
+      ]
+    },
+    "keepAlive": true,
+    "taskType": "TaskType.ProcessingSpeed",
+    "totalScore": 10
+  }
+}

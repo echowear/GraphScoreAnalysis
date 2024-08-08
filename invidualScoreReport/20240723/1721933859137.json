@@ -1,0 +1,30 @@
+{
+  "id": "1721933859137",
+  "Category": {
+    "keepAlive": true,
+    "analysisResult": {
+      "taskSignature": "30b6dcd0b90639ddb04c07428f86ea608249e9c5fd1d6530bcc4c2b307eff107",
+      "variance": 0.0,
+      "errorType": "ErrorType.None",
+      "responseLatency": 0,
+      "taskName": "TaskName.Category",
+      "completionTimes": [
+        72680
+      ],
+      "errorRates": [
+        NaN
+      ],
+      "learningRate": 0.0,
+      "mean": 0.0,
+      "percentCorrect": [
+        0
+      ]
+    },
+    "trialResponses": {
+      "trial1": []
+    },
+    "totalScore": 0,
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "taskName": "TaskName.Category"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "DigitSpanBackwards": {
+    "totalScore": 0,
+    "taskResponses": {
+      "trial1": [
+        {
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "tappedTimeElapsed": 25961,
+          "isHit": 0,
+          "selectedValue": "8",
+          "reactionTime": 0,
+          "correctValue": [
+            "5",
+            "9"
+          ]
+        },
+        {
+          "tappedTimeElapsed": 25961,
+          "selectedValue": "5",
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "isHit": 1,
+          "correctValue": [
+            "5",
+            "9"
+          ],
+          "reactionTime": 0
+        },
+        {
+          "selectedValue": "5",
+          "tappedTimeElapsed": 25961,
+          "reactionTime": 0,
+          "correctValue": [
+            "5",
+            "9"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ]
+    },
+    "keepAlive": true,
+    "taskName": "TaskName.DigitSpanBackwards",
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "analysisResult": {
+      "responseLatency": 0,
+      "taskName": "TaskName.DigitSpanBackwards",
+      "mean": 0,
+      "completionTimes": [
+        25961
+      ],
+      "errorType": "ErrorType.Other",
+      "learningRate": 0,
+      "allScores": [
+        0
+      ],
+      "taskSignature": "",
+      "errorRates": [
+        0.3333333333333333
+      ],
+      "variance": 0
+    }
+  },
+  "id": "1717162858016",
+  "DigitSpanForwards": {
+    "keepAlive": true,
+    "taskName": "TaskName.DigitSpanForwards",
+    "totalScore": 0,
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "taskResponses": {
+      "trial2": [
+        {
+          "tappedTimeElapsed": 24809,
+          "isHit": 0,
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "correctValue": [
+            "2",
+            "7",
+            "5",
+            "3"
+          ],
+          "selectedValue": "9",
+          "reactionTime": 0
+        },
+        {
+          "correctValue": [
+            "2",
+            "7",
+            "5",
+            "3"
+          ],
+          "tappedTimeElapsed": 24809,
+          "isHit": 0,
+          "reactionTime": 0,
+          "selectedValue": "6",
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          }
+        }
+      ],
+      "trial1": [
+        {
+          "reactionTime": 0,
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          },
+          "tappedTimeElapsed": 7498,
+          "selectedValue": "6",
+          "correctValue": [
+            "3",
+            "9",
+            "8",
+            "2"
+          ],
+          "isHit": 0
+        },
+        {
+          "isHit": 1,
+          "selectedValue": "9",
+          "reactionTime": 0,
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "tappedTimeElapsed": 7498,
+          "correctValue": [
+            "3",
+            "9",
+            "8",
+            "2"
+          ]
+        },
+        {
+          "tappedTimeElapsed": 7498,
+          "isHit": 1,
+          "selectedValue": "8",
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          },
+          "correctValue": [
+            "3",
+            "9",
+            "8",
+            "2"
+          ],
+          "reactionTime": 0
+        }
+      ]
+    },
+    "analysisResult": {
+      "allScores": [
+        0,
+        0
+      ],
+      "responseLatency": 0,
+      "learningRate": 0,
+      "errorType": "ErrorType.Other",
+      "taskName": "TaskName.DigitSpanForwards",
+      "completionTimes": [
+        7498,
+        24809
+      ],
+      "errorRates": [
+        0.3333333333333333,
+        1
+      ],
+      "mean": 0,
+      "variance": 0,
+      "taskSignature": ""
+    }
+  }
+}

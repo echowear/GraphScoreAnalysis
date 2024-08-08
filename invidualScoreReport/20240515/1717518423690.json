@@ -1,0 +1,599 @@
+{
+  "id": "1717518423690",
+  "ShortTermWordRecall": {
+    "taskName": "TaskName.ShortTermWordRecall",
+    "keepAlive": true,
+    "completionTime": 11213,
+    "taskResponses": [
+      {
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "reactionTime": 0,
+        "selectedValue": "",
+        "tappedTimeElapsed": 0,
+        "isHit": 0
+      },
+      {
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "reactionTime": 0,
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedTimeElapsed": 0,
+        "selectedValue": "hello",
+        "isHit": 0
+      },
+      {
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0,
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "isHit": 0,
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "selectedValue": "hello"
+      },
+      {
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "isHit": 0,
+        "reactionTime": 0,
+        "selectedValue": "how",
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedTimeElapsed": 0
+      },
+      {
+        "selectedValue": "are",
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0,
+        "isHit": 0,
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedPosition": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      {
+        "isHit": 0,
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0,
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "selectedValue": "you",
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ]
+      },
+      {
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "selectedValue": "it",
+        "reactionTime": 0,
+        "isHit": 0,
+        "tappedTimeElapsed": 0,
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ]
+      },
+      {
+        "selectedValue": "looks",
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0,
+        "isHit": 0,
+        "tappedPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ]
+      },
+      {
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "reactionTime": 0,
+        "isHit": 0,
+        "selectedValue": "like",
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedTimeElapsed": 0
+      },
+      {
+        "selectedValue": "this",
+        "isHit": 0,
+        "reactionTime": 0,
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedTimeElapsed": 0
+      },
+      {
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "reactionTime": 0,
+        "selectedValue": "might",
+        "tappedTimeElapsed": 0,
+        "isHit": 0
+      },
+      {
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "selectedValue": "be",
+        "tappedPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "tappedTimeElapsed": 0,
+        "isHit": 0,
+        "reactionTime": 0
+      },
+      {
+        "tappedTimeElapsed": 0,
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "reactionTime": 0,
+        "isHit": 0,
+        "selectedValue": "working"
+      },
+      {
+        "reactionTime": 0,
+        "tappedTimeElapsed": 0,
+        "selectedValue": "is",
+        "isHit": 0,
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedPosition": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      {
+        "selectedValue": "it",
+        "isHit": 0,
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0,
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedPosition": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      },
+      {
+        "isHit": 0,
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "selectedValue": "cuz",
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0
+      },
+      {
+        "selectedValue": "i",
+        "isHit": 0,
+        "reactionTime": 0,
+        "tappedPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedTimeElapsed": 0
+      },
+      {
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "selectedValue": "don't",
+        "reactionTime": 0,
+        "tappedPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "isHit": 0,
+        "tappedTimeElapsed": 0
+      },
+      {
+        "selectedValue": "hear",
+        "tappedTimeElapsed": 0,
+        "isHit": 0,
+        "reactionTime": 0,
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ]
+      },
+      {
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "reactionTime": 0,
+        "tappedTimeElapsed": 0,
+        "selectedValue": "that",
+        "isHit": 0
+      },
+      {
+        "tappedTimeElapsed": 0,
+        "isHit": 0,
+        "reactionTime": 0,
+        "selectedValue": "they",
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ]
+      },
+      {
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "reactionTime": 0,
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "selectedValue": "didn't",
+        "tappedTimeElapsed": 0,
+        "isHit": 0
+      },
+      {
+        "selectedValue": "they",
+        "isHit": 0,
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "reactionTime": 0,
+        "tappedTimeElapsed": 0,
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ]
+      },
+      {
+        "tappedPosition": {
+          "y": 0.0,
+          "x": 0.0
+        },
+        "isHit": 0,
+        "selectedValue": "didn't",
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "reactionTime": 0,
+        "tappedTimeElapsed": 0
+      }
+    ],
+    "analysisResult": {
+      "score": 0,
+      "taskSignature": "",
+      "errorType": "ErrorType.Other",
+      "intrusions": 0.0,
+      "taskName": "TaskName.ShortTermWordRecall",
+      "responseLatency": 0,
+      "learningRate": 0.0,
+      "errorRate": 0.0,
+      "mean": 0.0
+    },
+    "score": 0,
+    "taskType": "TaskType.ExecutiveFunctioning"
+  }
+}

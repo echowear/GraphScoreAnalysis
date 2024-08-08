@@ -1,0 +1,161 @@
+{
+  "ReactionTime": {
+    "taskName": "TaskName.ReactionTime",
+    "taskResponses": {
+      "trial1": [
+        {
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 5236,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 4937,
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 446.85546875,
+            "x": 880.66015625
+          }
+        },
+        {
+          "tappedPosition": {
+            "x": 556.171875,
+            "y": 226.71484375
+          },
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 8949,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 617
+        },
+        {
+          "tappedPosition": {
+            "x": 210.9296875,
+            "y": 567.44140625
+          },
+          "tappedTimeElapsed": 15449,
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 4574,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1
+        },
+        {
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "y": 269.62109375,
+            "x": 727.6875
+          },
+          "reactionTime": 3058,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "tappedTimeElapsed": 20183
+        },
+        {
+          "isHit": 1,
+          "reactionTime": 3926,
+          "tappedPosition": {
+            "x": 1107.03125,
+            "y": 221.27734375
+          },
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 26850,
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 497.24609375,
+            "x": 308.13671875
+          },
+          "reactionTime": 1973,
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 30130,
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "reactionTime": 1495,
+          "tappedTimeElapsed": 33785,
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 142.82421875,
+            "x": 674.6484375
+          },
+          "selectedValue": "BoxShape.circle",
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 1700,
+          "isHit": 1,
+          "tappedTimeElapsed": 38419,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 1010.14453125,
+            "y": 269.31640625
+          }
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "y": 88.30859375,
+            "x": 990.01171875
+          },
+          "reactionTime": 1744,
+          "tappedTimeElapsed": 41616,
+          "isHit": 1
+        },
+        {
+          "reactionTime": 4214,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 534.484375,
+            "y": 395.13671875
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 47882,
+          "selectedValue": "BoxShape.circle"
+        }
+      ]
+    },
+    "taskType": "TaskType.ProcessingSpeed",
+    "analysisResult": {
+      "taskSignature": "07df297e446e8c55479f729c564310a18dddfe7365cdc7020cac987a3de7fdef",
+      "percentCorrect": [
+        100
+      ],
+      "mean": 100,
+      "learningRate": 0,
+      "variance": 0,
+      "errorRates": [
+        0
+      ],
+      "errorType": "ErrorType.None",
+      "taskName": "TaskName.ReactionTime",
+      "responseLatency": 2824,
+      "completionTimes": [
+        47883
+      ]
+    },
+    "keepAlive": true,
+    "totalScore": 10
+  },
+  "id": "1717180533613"
+}

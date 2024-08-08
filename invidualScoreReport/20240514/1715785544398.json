@@ -1,0 +1,74 @@
+{
+  "id": "1715785544398",
+  "ShortTermWordRecall": {
+    "completionTime": 6030,
+    "taskName": "TaskName.ShortTermWordRecall",
+    "keepAlive": true,
+    "score": 0,
+    "analysisResult": {
+      "score": 0,
+      "mean": 0,
+      "errorType": "ErrorType.Other",
+      "responseLatency": 0,
+      "learningRate": 0,
+      "taskName": "TaskName.ShortTermWordRecall",
+      "errorRate": 0,
+      "taskSignature": "",
+      "intrusions": 0
+    },
+    "taskResponses": [
+      {
+        "tappedTimeElapsed": 0,
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "isHit": 0,
+        "selectedValue": "",
+        "reactionTime": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ]
+      },
+      {
+        "isHit": 0,
+        "selectedValue": "going",
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        },
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0
+      },
+      {
+        "reactionTime": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "isHit": 0,
+        "tappedTimeElapsed": 0,
+        "selectedValue": "on",
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        }
+      }
+    ],
+    "taskType": "TaskType.ExecutiveFunctioning"
+  }
+}

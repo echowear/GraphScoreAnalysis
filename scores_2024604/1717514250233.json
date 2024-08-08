@@ -1,0 +1,104 @@
+{
+  "id": "1717514250233",
+  "WordRecall": {
+    "repetitionCount": [
+      0,
+      0
+    ],
+    "serialPositionEffect": [
+      {
+        "MiddleEffect": 0,
+        "RecencyEffect": 0,
+        "PrimacyEffect": 0
+      },
+      {
+        "RecencyEffect": 0,
+        "PrimacyEffect": 0,
+        "MiddleEffect": 0
+      }
+    ],
+    "totalScore": 0,
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "keepAlive": true,
+    "taskName": "TaskName.WordRecall",
+    "trialResponses": {
+      "trial1": [
+        {
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          },
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedTimeElapsed": 0,
+          "isHit": 0,
+          "reactionTime": 0,
+          "selectedValue": ""
+        }
+      ],
+      "trial2": [
+        {
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "selectedValue": "",
+          "isHit": 0,
+          "tappedTimeElapsed": 0,
+          "reactionTime": 0,
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ]
+    },
+    "analysisResult": {
+      "intrusions": [
+        0,
+        0
+      ],
+      "variance": 0,
+      "completionTimes": [
+        8096,
+        11190
+      ],
+      "taskName": "TaskName.WordRecall",
+      "percentCorrect": [
+        0,
+        0
+      ],
+      "errorType": "ErrorType.None",
+      "responseLatency": 0,
+      "mean": 0,
+      "errorRates": [
+        1,
+        1
+      ],
+      "taskSignature": "dd3caf706f38136584ad33a62e986af1f18e8c1c375d886905255ac933fdf781",
+      "learningRate": 0
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "Category": {
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "trialResponses": {
+      "trial1": [
+        {
+          "correctValue": [
+            "Lynx",
+            "Hyena",
+            "Buffalo",
+            "Whale",
+            "Frog",
+            "Cobra"
+          ],
+          "isHit": 1,
+          "reactionTime": 19423,
+          "selectedValue": "Lung",
+          "tappedTimeElapsed": 19430,
+          "tappedPosition": {
+            "y": 452.9558919270833,
+            "x": 809.5782877604166
+          }
+        },
+        {
+          "tappedPosition": {
+            "y": 395.6702880859375,
+            "x": 890.8693033854166
+          },
+          "isHit": 1,
+          "correctValue": [
+            "Wolf",
+            "Moose",
+            "Chipmunk",
+            "Turtle",
+            "Otter",
+            "Penguin"
+          ],
+          "tappedTimeElapsed": 24011,
+          "selectedValue": "Latch",
+          "reactionTime": 4581
+        },
+        {
+          "reactionTime": 592,
+          "tappedPosition": {
+            "x": 723.6231282552084,
+            "y": 522.8975830078125
+          },
+          "isHit": 1,
+          "selectedValue": "Defect",
+          "tappedTimeElapsed": 24603,
+          "correctValue": [
+            "Wolf",
+            "Moose",
+            "Chipmunk",
+            "Turtle",
+            "Otter",
+            "Penguin"
+          ]
+        },
+        {
+          "reactionTime": 1575,
+          "tappedPosition": {
+            "y": 516.2364908854166,
+            "x": 963.4981282552084
+          },
+          "tappedTimeElapsed": 26178,
+          "isHit": 1,
+          "correctValue": [
+            "Wolf",
+            "Moose",
+            "Chipmunk",
+            "Turtle",
+            "Otter",
+            "Penguin"
+          ],
+          "selectedValue": "Otter"
+        },
+        {
+          "isHit": 1,
+          "selectedValue": "Mouth",
+          "correctValue": [
+            "Wolf",
+            "Moose",
+            "Chipmunk",
+            "Turtle",
+            "Otter",
+            "Penguin"
+          ],
+          "reactionTime": 681,
+          "tappedTimeElapsed": 26859,
+          "tappedPosition": {
+            "y": 379.68359375,
+            "x": 726.9546712239584
+          }
+        }
+      ]
+    },
+    "taskName": "TaskName.Category",
+    "keepAlive": true,
+    "analysisResult": {
+      "completionTimes": [
+        84334
+      ],
+      "errorType": "ErrorType.None",
+      "mean": 8.0,
+      "learningRate": 0.0,
+      "errorRates": [
+        0.8
+      ],
+      "variance": 0.0,
+      "taskSignature": "714f56161f23e95fb651e1cfbe959fcbb3fdf1cf6905d3fd02c40cd9d7752257",
+      "responseLatency": 2238,
+      "taskName": "TaskName.Category",
+      "percentCorrect": [
+        8
+      ]
+    },
+    "totalScore": 1
+  },
+  "id": "1721759600669"
+}

@@ -1,0 +1,161 @@
+{
+  "ReactionTime": {
+    "keepAlive": true,
+    "taskType": "TaskType.ProcessingSpeed",
+    "taskResponses": {
+      "trial1": [
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "y": 446.85546875,
+            "x": 880.66015625
+          },
+          "isHit": 1,
+          "reactionTime": 4937,
+          "tappedTimeElapsed": 5236,
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 556.171875,
+            "y": 226.71484375
+          },
+          "tappedTimeElapsed": 8949,
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 617
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedTimeElapsed": 15449,
+          "reactionTime": 4574,
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "y": 567.44140625,
+            "x": 210.9296875
+          },
+          "isHit": 1
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 3058,
+          "isHit": 1,
+          "tappedPosition": {
+            "x": 727.6875,
+            "y": 269.62109375
+          },
+          "tappedTimeElapsed": 20183,
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 1107.03125,
+            "y": 221.27734375
+          },
+          "isHit": 1,
+          "tappedTimeElapsed": 26850,
+          "reactionTime": 3926,
+          "selectedValue": "BoxShape.circle"
+        },
+        {
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 1973,
+          "tappedPosition": {
+            "x": 308.13671875,
+            "y": 497.24609375
+          },
+          "tappedTimeElapsed": 30130,
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 33785,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "reactionTime": 1495,
+          "tappedPosition": {
+            "y": 142.82421875,
+            "x": 674.6484375
+          }
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "reactionTime": 1700,
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "x": 1010.14453125,
+            "y": 269.31640625
+          },
+          "tappedTimeElapsed": 38419
+        },
+        {
+          "isHit": 1,
+          "reactionTime": 1744,
+          "tappedPosition": {
+            "y": 88.30859375,
+            "x": 990.01171875
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 41616
+        },
+        {
+          "tappedTimeElapsed": 47882,
+          "tappedPosition": {
+            "x": 534.484375,
+            "y": 395.13671875
+          },
+          "isHit": 1,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 4214
+        }
+      ]
+    },
+    "analysisResult": {
+      "variance": 0,
+      "taskName": "TaskName.ReactionTime",
+      "responseLatency": 2824,
+      "errorRates": [
+        0
+      ],
+      "errorType": "ErrorType.None",
+      "mean": 100,
+      "completionTimes": [
+        47883
+      ],
+      "percentCorrect": [
+        100
+      ],
+      "learningRate": 0,
+      "taskSignature": "07df297e446e8c55479f729c564310a18dddfe7365cdc7020cac987a3de7fdef"
+    },
+    "taskName": "TaskName.ReactionTime",
+    "totalScore": 10
+  },
+  "id": "1717180533613"
+}

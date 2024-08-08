@@ -1,0 +1,45 @@
+{
+  "ShortTermWordRecall": {
+    "score": 0,
+    "completionTime": 6791,
+    "analysisResult": {
+      "mean": 0,
+      "responseLatency": 0,
+      "errorType": "ErrorType.Other",
+      "errorRate": 0,
+      "score": 0,
+      "intrusions": 0,
+      "learningRate": 0,
+      "taskName": "TaskName.ShortTermWordRecall",
+      "taskSignature": ""
+    },
+    "taskResponses": [
+      {
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "selectedValue": "",
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0,
+        "isHit": 0,
+        "correctValue": []
+      },
+      {
+        "isHit": 0,
+        "reactionTime": 0,
+        "correctValue": [],
+        "tappedTimeElapsed": 0,
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        },
+        "selectedValue": ""
+      }
+    ],
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "taskName": "TaskName.ShortTermWordRecall",
+    "keepAlive": true
+  },
+  "id": "1715870742426"
+}

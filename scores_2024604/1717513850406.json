@@ -1,0 +1,205 @@
+{
+  "id": "1717513850406",
+  "WordRecall": {
+    "trialResponses": {
+      "trial1": [
+        {
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "isHit": 0,
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "selectedValue": "",
+          "reactionTime": 0,
+          "tappedTimeElapsed": 0
+        }
+      ],
+      "trial3": [
+        {
+          "isHit": 0,
+          "tappedTimeElapsed": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          },
+          "reactionTime": 0,
+          "selectedValue": ""
+        }
+      ],
+      "trial2": [
+        {
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "reactionTime": 0,
+          "isHit": 0,
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          },
+          "selectedValue": "",
+          "tappedTimeElapsed": 0
+        }
+      ]
+    },
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "repetitionCount": [
+      0,
+      0,
+      0
+    ],
+    "analysisResult": {
+      "intrusions": [
+        0,
+        0,
+        0
+      ],
+      "responseLatency": 0,
+      "taskName": "TaskName.WordRecall",
+      "learningRate": 0,
+      "percentCorrect": [
+        0,
+        0,
+        0
+      ],
+      "mean": 0,
+      "taskSignature": "e6a55b4eb129dc907dbb9184ede47a6f53e46389d26388744aac9ddd23ae6693",
+      "errorRates": [
+        1,
+        1,
+        1
+      ],
+      "completionTimes": [
+        6011,
+        6595,
+        6115
+      ],
+      "variance": 0,
+      "errorType": "ErrorType.None"
+    },
+    "keepAlive": true,
+    "totalScore": 0,
+    "taskName": "TaskName.WordRecall",
+    "serialPositionEffect": [
+      {
+        "PrimacyEffect": 0,
+        "MiddleEffect": 0,
+        "RecencyEffect": 0
+      },
+      {
+        "RecencyEffect": 0,
+        "MiddleEffect": 0,
+        "PrimacyEffect": 0
+      },
+      {
+        "RecencyEffect": 0,
+        "PrimacyEffect": 0,
+        "MiddleEffect": 0
+      }
+    ]
+  },
+  "DigitSpanForwards": {
+    "analysisResult": {
+      "responseLatency": 1902,
+      "taskName": "TaskName.DigitSpanForwards",
+      "taskSignature": "0a8f551d42718fd780c783d440b6df158347c319351136b6f09baaa6c6f7ef68",
+      "errorType": "ErrorType.Fail",
+      "mean": 0,
+      "errorRates": [
+        0,
+        1
+      ],
+      "learningRate": 0,
+      "percentCorrect": [
+        0,
+        0
+      ],
+      "variance": 0,
+      "completionTimes": [
+        3627,
+        1799
+      ]
+    },
+    "totalScore": 0,
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "taskName": "TaskName.DigitSpanForwards",
+    "keepAlive": true,
+    "trialResponses": {
+      "trial2": [
+        {
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "correctValue": [
+            "2",
+            "7",
+            "5",
+            "3"
+          ],
+          "reactionTime": 1282,
+          "isHit": 0,
+          "tappedTimeElapsed": 1799,
+          "selectedValue": "9"
+        }
+      ],
+      "trial1": [
+        {
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "reactionTime": 2523,
+          "isHit": 1,
+          "correctValue": [
+            "3",
+            "9",
+            "8",
+            "2"
+          ],
+          "tappedTimeElapsed": 3627,
+          "selectedValue": "9"
+        }
+      ]
+    }
+  }
+}

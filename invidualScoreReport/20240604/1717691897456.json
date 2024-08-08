@@ -1,0 +1,276 @@
+{
+  "ObjectRecognition": {
+    "taskName": "TaskName.ObjectRecognition",
+    "totalScore": 6,
+    "keepAlive": true,
+    "taskType": "TaskType.Language",
+    "analysisResult": {
+      "taskName": "TaskName.ObjectRecognition",
+      "errorRates": [
+        0.5
+      ],
+      "completionTimes": [
+        9308
+      ],
+      "learningRate": 0,
+      "variance": 0,
+      "percentCorrect": [
+        50
+      ],
+      "errorType": "ErrorType.None",
+      "taskSignature": "f658b0ccbcc165040e369e7932bb1178432ecbf34bc71e64fbcebcdfa8baa924",
+      "mean": 50,
+      "responseLatency": 776
+    },
+    "trialResponses": {
+      "trial1": [
+        {
+          "tappedTimeElapsed": 772,
+          "tappedPosition": {
+            "y": 532.17578125,
+            "x": 588.30859375
+          },
+          "correctValue": [
+            "Tree"
+          ],
+          "selectedValue": "Branch",
+          "reactionTime": 773,
+          "isHit": 1
+        },
+        {
+          "correctValue": [
+            "Bicycle"
+          ],
+          "selectedValue": "Bicycle",
+          "tappedTimeElapsed": 1605,
+          "tappedPosition": {
+            "y": 532.17578125,
+            "x": 588.30859375
+          },
+          "isHit": 1,
+          "reactionTime": 832
+        },
+        {
+          "tappedPosition": {
+            "y": 532.17578125,
+            "x": 588.30859375
+          },
+          "correctValue": [
+            "House"
+          ],
+          "selectedValue": "Shed",
+          "isHit": 1,
+          "tappedTimeElapsed": 2125,
+          "reactionTime": 520
+        },
+        {
+          "reactionTime": 982,
+          "correctValue": [
+            "Butterfly"
+          ],
+          "tappedTimeElapsed": 3107,
+          "selectedValue": "Catepillar",
+          "tappedPosition": {
+            "y": 532.17578125,
+            "x": 588.30859375
+          },
+          "isHit": 1
+        },
+        {
+          "selectedValue": "Giraffe",
+          "tappedTimeElapsed": 4006,
+          "isHit": 1,
+          "reactionTime": 899,
+          "tappedPosition": {
+            "x": 588.30859375,
+            "y": 532.17578125
+          },
+          "correctValue": [
+            "Giraffe"
+          ]
+        },
+        {
+          "isHit": 1,
+          "correctValue": [
+            "Kayak"
+          ],
+          "reactionTime": 518,
+          "tappedPosition": {
+            "y": 532.17578125,
+            "x": 588.30859375
+          },
+          "tappedTimeElapsed": 4524,
+          "selectedValue": "Canoe"
+        },
+        {
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 532.17578125,
+            "x": 588.30859375
+          },
+          "correctValue": [
+            "Pear"
+          ],
+          "reactionTime": 1048,
+          "tappedTimeElapsed": 5572,
+          "selectedValue": "Pear"
+        },
+        {
+          "reactionTime": 602,
+          "tappedTimeElapsed": 6174,
+          "tappedPosition": {
+            "y": 532.17578125,
+            "x": 588.30859375
+          },
+          "isHit": 1,
+          "correctValue": [
+            "Hippopotamus"
+          ],
+          "selectedValue": "Hippopotamus"
+        },
+        {
+          "tappedPosition": {
+            "x": 588.30859375,
+            "y": 532.17578125
+          },
+          "correctValue": [
+            "Watermelon"
+          ],
+          "isHit": 1,
+          "selectedValue": "Cantaloupe",
+          "reactionTime": 549,
+          "tappedTimeElapsed": 6723
+        },
+        {
+          "correctValue": [
+            "Daisy"
+          ],
+          "tappedPosition": {
+            "y": 532.17578125,
+            "x": 588.30859375
+          },
+          "reactionTime": 967,
+          "selectedValue": "Tulip",
+          "isHit": 1,
+          "tappedTimeElapsed": 7690
+        },
+        {
+          "tappedPosition": {
+            "x": 588.30859375,
+            "y": 532.17578125
+          },
+          "selectedValue": "Grapefruit",
+          "reactionTime": 916,
+          "correctValue": [
+            "Grapefruit"
+          ],
+          "tappedTimeElapsed": 8606,
+          "isHit": 1
+        },
+        {
+          "tappedPosition": {
+            "x": 588.30859375,
+            "y": 532.17578125
+          },
+          "correctValue": [
+            "Accordion"
+          ],
+          "tappedTimeElapsed": 9308,
+          "isHit": 1,
+          "selectedValue": "Accordion",
+          "reactionTime": 702
+        }
+      ]
+    }
+  },
+  "WordRecall": {
+    "analysisResult": {
+      "taskSignature": "16a7d1bcdcbf38e4219fbbe4a5e9affb3b467100d449881c9cf0f217b14f92cf",
+      "percentCorrect": [
+        0
+      ],
+      "learningRate": 0,
+      "responseLatency": 0,
+      "intrusions": [
+        0
+      ],
+      "mean": 0,
+      "errorRates": [
+        1
+      ],
+      "errorType": "ErrorType.None",
+      "completionTimes": [
+        6001
+      ],
+      "variance": 0,
+      "taskName": "TaskName.WordRecall"
+    },
+    "trialResponses": {
+      "trial1": [
+        {
+          "isHit": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "selectedValue": "",
+          "tappedTimeElapsed": 0,
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          },
+          "reactionTime": 0
+        },
+        {
+          "selectedValue": "",
+          "tappedTimeElapsed": 0,
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          },
+          "reactionTime": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "isHit": 0
+        }
+      ]
+    },
+    "keepAlive": true,
+    "repetitionCount": [
+      0
+    ],
+    "taskName": "TaskName.WordRecall",
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "serialPositionEffect": [
+      {
+        "MiddleEffect": 0,
+        "PrimacyEffect": 0,
+        "RecencyEffect": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  "id": "1717691897456"
+}

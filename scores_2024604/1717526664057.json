@@ -1,0 +1,116 @@
+{
+  "id": "1717526664057",
+  "WordRecall": {
+    "serialPositionEffect": [
+      {
+        "RecencyEffect": 0.25,
+        "PrimacyEffect": 0,
+        "MiddleEffect": 0.25
+      }
+    ],
+    "keepAlive": true,
+    "repetitionCount": [
+      0
+    ],
+    "taskName": "TaskName.WordRecall",
+    "totalScore": 2,
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "analysisResult": {
+      "learningRate": 0,
+      "percentCorrect": [
+        17
+      ],
+      "taskName": "TaskName.WordRecall",
+      "intrusions": [
+        0
+      ],
+      "completionTimes": [
+        30496
+      ],
+      "variance": 0,
+      "errorRates": [
+        0.3333333333333333
+      ],
+      "responseLatency": 0,
+      "errorType": "ErrorType.None",
+      "mean": 17,
+      "taskSignature": "2dbe11c31aa504ca09c7628e0eb7478f2c7d6f8f601b90a80280a6a918a0e372"
+    },
+    "trialResponses": {
+      "trial1": [
+        {
+          "tappedTimeElapsed": 0,
+          "selectedValue": "",
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "isHit": 0,
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "reactionTime": 0
+        },
+        {
+          "selectedValue": "hat",
+          "tappedTimeElapsed": 0,
+          "isHit": 1,
+          "reactionTime": 0,
+          "tappedPosition": {
+            "x": 0,
+            "y": 0
+          },
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ]
+        },
+        {
+          "correctValue": [
+            "drum",
+            "curtain",
+            "bell",
+            "coffee",
+            "school",
+            "parent",
+            "moon",
+            "garden",
+            "hat",
+            "farmer",
+            "nose",
+            "turkey"
+          ],
+          "selectedValue": "garden",
+          "tappedTimeElapsed": 0,
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 0,
+            "x": 0
+          },
+          "reactionTime": 0
+        }
+      ]
+    }
+  }
+}

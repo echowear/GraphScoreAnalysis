@@ -1,0 +1,108 @@
+{
+  "ShortTermWordRecall": {
+    "analysisResult": {
+      "errorType": "ErrorType.Other",
+      "errorRate": 0,
+      "score": 20,
+      "taskSignature": "",
+      "mean": 0,
+      "taskName": "TaskName.ShortTermWordRecall",
+      "learningRate": 0,
+      "responseLatency": 0,
+      "intrusions": 0
+    },
+    "taskName": "TaskName.ShortTermWordRecall",
+    "score": 20,
+    "completionTime": 8105,
+    "taskResponses": [
+      {
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "reactionTime": 0,
+        "isHit": 0,
+        "tappedTimeElapsed": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "selectedValue": ""
+      },
+      {
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "isHit": 1,
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "tappedTimeElapsed": 0,
+        "reactionTime": 0,
+        "selectedValue": "children"
+      },
+      {
+        "tappedTimeElapsed": 0,
+        "selectedValue": "farmer",
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "isHit": 0,
+        "reactionTime": 0
+      },
+      {
+        "selectedValue": "turkey",
+        "tappedTimeElapsed": 0,
+        "isHit": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ],
+        "reactionTime": 0,
+        "tappedPosition": {
+          "y": 0,
+          "x": 0
+        }
+      },
+      {
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "selectedValue": "gum",
+        "isHit": 0,
+        "reactionTime": 0,
+        "tappedTimeElapsed": 0,
+        "correctValue": [
+          "apple",
+          "dawn",
+          "pool",
+          "tree",
+          "children"
+        ]
+      }
+    ],
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "keepAlive": true
+  },
+  "id": "1715716505367"
+}

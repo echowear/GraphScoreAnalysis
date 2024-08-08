@@ -1,0 +1,161 @@
+{
+  "id": "1717180533613",
+  "ReactionTime": {
+    "taskType": "TaskType.ProcessingSpeed",
+    "totalScore": 10,
+    "taskName": "TaskName.ReactionTime",
+    "taskResponses": {
+      "trial1": [
+        {
+          "selectedValue": "BoxShape.circle",
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "tappedPosition": {
+            "y": 446.85546875,
+            "x": 880.66015625
+          },
+          "reactionTime": 4937,
+          "tappedTimeElapsed": 5236
+        },
+        {
+          "tappedTimeElapsed": 8949,
+          "selectedValue": "BoxShape.circle",
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "reactionTime": 617,
+          "tappedPosition": {
+            "y": 226.71484375,
+            "x": 556.171875
+          }
+        },
+        {
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "x": 210.9296875,
+            "y": 567.44140625
+          },
+          "tappedTimeElapsed": 15449,
+          "reactionTime": 4574,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1
+        },
+        {
+          "tappedPosition": {
+            "x": 727.6875,
+            "y": 269.62109375
+          },
+          "selectedValue": "BoxShape.circle",
+          "reactionTime": 3058,
+          "tappedTimeElapsed": 20183,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1
+        },
+        {
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "tappedTimeElapsed": 26850,
+          "reactionTime": 3926,
+          "selectedValue": "BoxShape.circle",
+          "tappedPosition": {
+            "y": 221.27734375,
+            "x": 1107.03125
+          }
+        },
+        {
+          "isHit": 1,
+          "reactionTime": 1973,
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 30130,
+          "tappedPosition": {
+            "y": 497.24609375,
+            "x": 308.13671875
+          },
+          "correctValue": [
+            "BoxShape.circle"
+          ]
+        },
+        {
+          "reactionTime": 1495,
+          "selectedValue": "BoxShape.circle",
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "tappedTimeElapsed": 33785,
+          "tappedPosition": {
+            "y": 142.82421875,
+            "x": 674.6484375
+          }
+        },
+        {
+          "tappedTimeElapsed": 38419,
+          "reactionTime": 1700,
+          "isHit": 1,
+          "selectedValue": "BoxShape.circle",
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "tappedPosition": {
+            "x": 1010.14453125,
+            "y": 269.31640625
+          }
+        },
+        {
+          "selectedValue": "BoxShape.circle",
+          "isHit": 1,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "reactionTime": 1744,
+          "tappedTimeElapsed": 41616,
+          "tappedPosition": {
+            "x": 990.01171875,
+            "y": 88.30859375
+          }
+        },
+        {
+          "selectedValue": "BoxShape.circle",
+          "tappedTimeElapsed": 47882,
+          "correctValue": [
+            "BoxShape.circle"
+          ],
+          "isHit": 1,
+          "reactionTime": 4214,
+          "tappedPosition": {
+            "y": 395.13671875,
+            "x": 534.484375
+          }
+        }
+      ]
+    },
+    "keepAlive": true,
+    "analysisResult": {
+      "percentCorrect": [
+        100
+      ],
+      "responseLatency": 2824,
+      "errorRates": [
+        0
+      ],
+      "mean": 100,
+      "taskSignature": "07df297e446e8c55479f729c564310a18dddfe7365cdc7020cac987a3de7fdef",
+      "taskName": "TaskName.ReactionTime",
+      "learningRate": 0,
+      "completionTimes": [
+        47883
+      ],
+      "errorType": "ErrorType.None",
+      "variance": 0
+    }
+  }
+}

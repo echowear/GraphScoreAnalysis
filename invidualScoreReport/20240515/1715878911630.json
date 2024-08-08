@@ -1,0 +1,71 @@
+{
+  "ShortTermWordRecall": {
+    "completionTime": 30006,
+    "keepAlive": true,
+    "analysisResult": {
+      "responseLatency": 0,
+      "learningRate": 0,
+      "score": 0,
+      "mean": 0,
+      "taskSignature": "",
+      "errorRate": 0,
+      "taskName": "TaskName.ShortTermWordRecall",
+      "errorType": "ErrorType.Other",
+      "intrusions": 0
+    },
+    "score": 0,
+    "taskType": "TaskType.ExecutiveFunctioning",
+    "taskName": "TaskName.ShortTermWordRecall",
+    "taskResponses": [
+      {
+        "selectedValue": "",
+        "isHit": 0,
+        "reactionTime": 0,
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ],
+        "tappedTimeElapsed": 0
+      },
+      {
+        "selectedValue": "",
+        "tappedTimeElapsed": 0,
+        "tappedPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "reactionTime": 0,
+        "isHit": 0,
+        "correctValue": [
+          "drum",
+          "curtain",
+          "bell",
+          "coffee",
+          "school",
+          "parent",
+          "moon",
+          "garden",
+          "hat",
+          "farmer",
+          "nose",
+          "turkey"
+        ]
+      }
+    ]
+  },
+  "id": "1715878911630"
+}

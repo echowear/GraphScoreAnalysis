@@ -1,0 +1,179 @@
+{
+  "id": "1716233996807",
+  "ObjectRecognition": {
+    "taskType": "TaskType.Language",
+    "keepAlive": true,
+    "score": 50,
+    "completionTime": 3075,
+    "taskName": "TaskName.ObjectRecognition",
+    "analysisResult": {
+      "errorType": "ErrorType.Other",
+      "score": 50,
+      "taskName": "TaskName.ObjectRecognition",
+      "taskSignature": "",
+      "errorRate": 0,
+      "intrusions": 0,
+      "mean": 0,
+      "responseLatency": 256,
+      "learningRate": 0
+    },
+    "taskResponses": [
+      {
+        "correctValue": [
+          "Tree"
+        ],
+        "reactionTime": 795,
+        "selectedValue": "Branch",
+        "tappedPosition": {
+          "x": 685.640625,
+          "y": 606.26171875
+        },
+        "tappedTimeElapsed": 794,
+        "isHit": 1
+      },
+      {
+        "tappedTimeElapsed": 1257,
+        "selectedValue": "Bicycle",
+        "reactionTime": 463,
+        "tappedPosition": {
+          "x": 685.7578125,
+          "y": 606.26171875
+        },
+        "isHit": 1,
+        "correctValue": [
+          "Bicycle"
+        ]
+      },
+      {
+        "selectedValue": "Shed",
+        "isHit": 1,
+        "tappedTimeElapsed": 1406,
+        "tappedPosition": {
+          "x": 685.7578125,
+          "y": 606.26171875
+        },
+        "reactionTime": 149,
+        "correctValue": [
+          "House"
+        ]
+      },
+      {
+        "tappedPosition": {
+          "y": 606.26171875,
+          "x": 685.7578125
+        },
+        "reactionTime": 133,
+        "isHit": 1,
+        "correctValue": [
+          "Butterfly"
+        ],
+        "selectedValue": "Catepillar",
+        "tappedTimeElapsed": 1539
+      },
+      {
+        "tappedTimeElapsed": 1672,
+        "reactionTime": 133,
+        "tappedPosition": {
+          "y": 606.26171875,
+          "x": 685.7578125
+        },
+        "selectedValue": "Giraffe",
+        "correctValue": [
+          "Giraffe"
+        ],
+        "isHit": 1
+      },
+      {
+        "isHit": 1,
+        "tappedTimeElapsed": 1806,
+        "correctValue": [
+          "Kayak"
+        ],
+        "tappedPosition": {
+          "y": 606.26171875,
+          "x": 685.7578125
+        },
+        "reactionTime": 133,
+        "selectedValue": "Canoe"
+      },
+      {
+        "selectedValue": "Pear",
+        "tappedTimeElapsed": 1939,
+        "tappedPosition": {
+          "x": 685.7578125,
+          "y": 606.26171875
+        },
+        "reactionTime": 133,
+        "isHit": 1,
+        "correctValue": [
+          "Pear"
+        ]
+      },
+      {
+        "tappedTimeElapsed": 2073,
+        "isHit": 1,
+        "reactionTime": 134,
+        "selectedValue": "Hippopotamus",
+        "correctValue": [
+          "Hippopotamus"
+        ],
+        "tappedPosition": {
+          "x": 685.7578125,
+          "y": 606.26171875
+        }
+      },
+      {
+        "reactionTime": 116,
+        "correctValue": [
+          "Watermelon"
+        ],
+        "tappedTimeElapsed": 2189,
+        "tappedPosition": {
+          "y": 606.26171875,
+          "x": 685.7578125
+        },
+        "isHit": 1,
+        "selectedValue": "Cantaloupe"
+      },
+      {
+        "reactionTime": 421,
+        "isHit": 1,
+        "tappedTimeElapsed": 2610,
+        "correctValue": [
+          "Daisy"
+        ],
+        "tappedPosition": {
+          "x": 685.7578125,
+          "y": 606.26171875
+        },
+        "selectedValue": "Tulip"
+      },
+      {
+        "reactionTime": 162,
+        "tappedTimeElapsed": 2772,
+        "isHit": 1,
+        "tappedPosition": {
+          "y": 606.26171875,
+          "x": 685.7578125
+        },
+        "correctValue": [
+          "Grapefruit"
+        ],
+        "selectedValue": "Grapefruit"
+      },
+      {
+        "isHit": 1,
+        "tappedPosition": {
+          "y": 606.26171875,
+          "x": 685.7578125
+        },
+        "tappedTimeElapsed": 3075,
+        "correctValue": [
+          "Accordion"
+        ],
+        "selectedValue": "Accordion",
+        "reactionTime": 303
+      }
+    ]
+  }
+}
